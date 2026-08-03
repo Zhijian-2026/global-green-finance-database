@@ -1,0 +1,3511 @@
+{
+  "indicators": [
+    "P02",
+    "P07",
+    "P08",
+    "P10",
+    "P13",
+    "M01",
+    "M02"
+  ],
+  "years": {
+    "2021": [
+      {
+        "iso3": "ARE",
+        "country": "阿联酋",
+        "countryEnglish": "United Arab Emirates",
+        "lon": 54,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 6.5,
+          "M02": 0.6
+        }
+      },
+      {
+        "iso3": "ARG",
+        "country": "阿根廷",
+        "countryEnglish": "Argentina",
+        "lon": -64,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 1.1,
+          "M02": 0.4
+        }
+      },
+      {
+        "iso3": "AUS",
+        "country": "澳大利亚",
+        "countryEnglish": "Australia",
+        "lon": 134,
+        "lat": -25,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 20.9,
+          "M02": 5.2
+        }
+      },
+      {
+        "iso3": "AUT",
+        "country": "奥地利",
+        "countryEnglish": "Austria",
+        "lon": 14,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 7.5,
+          "M02": 3.1
+        }
+      },
+      {
+        "iso3": "BEL",
+        "country": "比利时",
+        "countryEnglish": "Belgium",
+        "lon": 4,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 13,
+          "M02": 2.5
+        }
+      },
+      {
+        "iso3": "BRA",
+        "country": "巴西",
+        "countryEnglish": "Brazil",
+        "lon": -52,
+        "lat": -10,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 10.4,
+          "M02": 2.2
+        }
+      },
+      {
+        "iso3": "CAN",
+        "country": "加拿大",
+        "countryEnglish": "Canada",
+        "lon": -106,
+        "lat": 57,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 39,
+          "M02": 10.6
+        }
+      },
+      {
+        "iso3": "CHE",
+        "country": "瑞士",
+        "countryEnglish": "Switzerland",
+        "lon": 8,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 7.4,
+          "M02": 2.8
+        }
+      },
+      {
+        "iso3": "CHL",
+        "country": "智利",
+        "countryEnglish": "Chile",
+        "lon": -71,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 11.9,
+          "M02": 4.2
+        }
+      },
+      {
+        "iso3": "CHN",
+        "country": "中国",
+        "countryEnglish": "China",
+        "lon": 104,
+        "lat": 35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 199.1,
+          "M02": 68.1
+        }
+      },
+      {
+        "iso3": "COL",
+        "country": "哥伦比亚",
+        "countryEnglish": "Colombia",
+        "lon": -74,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 0.7,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "DEU",
+        "country": "德国",
+        "countryEnglish": "Germany",
+        "lon": 10,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 157.1,
+          "M02": 63.24
+        }
+      },
+      {
+        "iso3": "DNK",
+        "country": "丹麦",
+        "countryEnglish": "Denmark",
+        "lon": 10,
+        "lat": 56,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 15.2,
+          "M02": 3.9
+        }
+      },
+      {
+        "iso3": "EGY",
+        "country": "埃及",
+        "countryEnglish": "Egypt",
+        "lon": 30,
+        "lat": 27,
+        "values": {
+          "P02": "yes",
+          "P07": "no",
+          "P08": null,
+          "P10": null,
+          "P13": "yes",
+          "M01": 0.8,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "ESP",
+        "country": "西班牙",
+        "countryEnglish": "Spain",
+        "lon": -4,
+        "lat": 40,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 57.7,
+          "M02": 22
+        }
+      },
+      {
+        "iso3": "FRA",
+        "country": "法国",
+        "countryEnglish": "France",
+        "lon": 2,
+        "lat": 46,
+        "values": {
+          "P02": "YES",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 167.2,
+          "M02": 36.3
+        }
+      },
+      {
+        "iso3": "GBR",
+        "country": "英国",
+        "countryEnglish": "UK",
+        "lon": -2,
+        "lat": 54,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 49.1,
+          "M02": 33.9
+        }
+      },
+      {
+        "iso3": "IDN",
+        "country": "印度尼西亚",
+        "countryEnglish": "Indonesia",
+        "lon": 118,
+        "lat": -2,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 6.4,
+          "M02": 0.8
+        }
+      },
+      {
+        "iso3": "IND",
+        "country": "印度",
+        "countryEnglish": "India",
+        "lon": 79,
+        "lat": 22,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 18.8,
+          "M02": 6.11
+        }
+      },
+      {
+        "iso3": "IRL",
+        "country": "爱尔兰",
+        "countryEnglish": "Ireland",
+        "lon": -8,
+        "lat": 53,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 11.4,
+          "M02": 3.7
+        }
+      },
+      {
+        "iso3": "ITA",
+        "country": "意大利",
+        "countryEnglish": "Italy",
+        "lon": 12,
+        "lat": 42,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 38.4,
+          "M02": 19.6
+        }
+      },
+      {
+        "iso3": "JPN",
+        "country": "日本",
+        "countryEnglish": "Japan",
+        "lon": 138,
+        "lat": 37,
+        "values": {
+          "P02": "yes",
+          "P07": "yes",
+          "P08": null,
+          "P10": null,
+          "P13": "no",
+          "M01": 37.7,
+          "M02": 11.5
+        }
+      },
+      {
+        "iso3": "KAZ",
+        "country": "哈萨克斯坦",
+        "countryEnglish": "Kazakhstan",
+        "lon": 68,
+        "lat": 48,
+        "values": {
+          "P02": "yes",
+          "P07": "yes",
+          "P08": null,
+          "P10": null,
+          "P13": "no",
+          "M01": 0,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "KOR",
+        "country": "韩国",
+        "countryEnglish": "South Korea",
+        "lon": 128,
+        "lat": 36,
+        "values": {
+          "P02": "yes",
+          "P07": "yes",
+          "P08": null,
+          "P10": null,
+          "P13": "no",
+          "M01": 22,
+          "M02": 12.5
+        }
+      },
+      {
+        "iso3": "MEX",
+        "country": "墨西哥",
+        "countryEnglish": "Mexico",
+        "lon": -102,
+        "lat": 23,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 3.6,
+          "M02": 0.5
+        }
+      },
+      {
+        "iso3": "MYS",
+        "country": "马来西亚",
+        "countryEnglish": "Malasia",
+        "lon": 102,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 1.6,
+          "M02": 0.1
+        }
+      },
+      {
+        "iso3": "NGA",
+        "country": "尼日利亚",
+        "countryEnglish": "Nigeria",
+        "lon": 8,
+        "lat": 9,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 0.1,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "NLD",
+        "country": "荷兰",
+        "countryEnglish": "Netherlands",
+        "lon": 5,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 78.8,
+          "M02": 23.4
+        }
+      },
+      {
+        "iso3": "NOR",
+        "country": "挪威",
+        "countryEnglish": "Norway",
+        "lon": 10,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 28.8,
+          "M02": 12
+        }
+      },
+      {
+        "iso3": "PHL",
+        "country": "菲律宾",
+        "countryEnglish": "Philippines",
+        "lon": 122,
+        "lat": 13,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 3.4,
+          "M02": 0.5
+        }
+      },
+      {
+        "iso3": "POL",
+        "country": "波兰",
+        "countryEnglish": "Poland",
+        "lon": 19,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 6.5,
+          "M02": 1.8
+        }
+      },
+      {
+        "iso3": "PRT",
+        "country": "葡萄牙",
+        "countryEnglish": "Portugal",
+        "lon": -8,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 8.3,
+          "M02": 2.7
+        }
+      },
+      {
+        "iso3": "RUS",
+        "country": "俄罗斯",
+        "countryEnglish": "Russia",
+        "lon": 90,
+        "lat": 61,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 2.6,
+          "M02": 1.6
+        }
+      },
+      {
+        "iso3": "SAU",
+        "country": "沙特阿拉伯",
+        "countryEnglish": "Saudi Arabia",
+        "lon": 45,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 2.4,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "SGP",
+        "country": "新加坡",
+        "countryEnglish": "Singapore",
+        "lon": 104,
+        "lat": 1,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 19.7,
+          "M02": 8.1
+        }
+      },
+      {
+        "iso3": "SWE",
+        "country": "瑞典",
+        "countryEnglish": "Sweden",
+        "lon": 18,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 58.3,
+          "M02": 16.2
+        }
+      },
+      {
+        "iso3": "THA",
+        "country": "泰国",
+        "countryEnglish": "Thailand",
+        "lon": 101,
+        "lat": 15,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 2.5,
+          "M02": 0.8
+        }
+      },
+      {
+        "iso3": "TUR",
+        "country": "土耳其",
+        "countryEnglish": "Turkey",
+        "lon": 35,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 0.1,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "USA",
+        "country": "美国",
+        "countryEnglish": "US",
+        "lon": -98,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 303.9,
+          "M02": 81.9
+        }
+      },
+      {
+        "iso3": "VNM",
+        "country": "越南",
+        "countryEnglish": "Vietnam",
+        "lon": 108,
+        "lat": 16,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 0.7,
+          "M02": 0.2
+        }
+      },
+      {
+        "iso3": "ZAF",
+        "country": "南非",
+        "countryEnglish": "South Africa",
+        "lon": 24,
+        "lat": -29,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 2.7,
+          "M02": 0.1
+        }
+      }
+    ],
+    "2022": [
+      {
+        "iso3": "ARE",
+        "country": "阿联酋",
+        "countryEnglish": "United Arab Emirates",
+        "lon": 54,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 7.99,
+          "M02": 1.5
+        }
+      },
+      {
+        "iso3": "ARG",
+        "country": "阿根廷",
+        "countryEnglish": "Argentina",
+        "lon": -64,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 2,
+          "M02": 0.8
+        }
+      },
+      {
+        "iso3": "AUS",
+        "country": "澳大利亚",
+        "countryEnglish": "Australia",
+        "lon": 134,
+        "lat": -25,
+        "values": {
+          "P02": "Yes",
+          "P07": "no",
+          "P08": null,
+          "P10": null,
+          "P13": "no",
+          "M01": 24,
+          "M02": 5.4
+        }
+      },
+      {
+        "iso3": "AUT",
+        "country": "奥地利",
+        "countryEnglish": "Austria",
+        "lon": 14,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 14.7,
+          "M02": 7.7
+        }
+      },
+      {
+        "iso3": "BEL",
+        "country": "比利时",
+        "countryEnglish": "Belgium",
+        "lon": 4,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 25,
+          "M02": 7.9
+        }
+      },
+      {
+        "iso3": "BRA",
+        "country": "巴西",
+        "countryEnglish": "Brazil",
+        "lon": -52,
+        "lat": -10,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 11.4,
+          "M02": 1.1
+        }
+      },
+      {
+        "iso3": "CAN",
+        "country": "加拿大",
+        "countryEnglish": "Canada",
+        "lon": -106,
+        "lat": 57,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 54.2,
+          "M02": 12.1
+        }
+      },
+      {
+        "iso3": "CHE",
+        "country": "瑞士",
+        "countryEnglish": "Switzerland",
+        "lon": 8,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 12.1,
+          "M02": 2.3
+        }
+      },
+      {
+        "iso3": "CHL",
+        "country": "智利",
+        "countryEnglish": "Chile",
+        "lon": -71,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 13.6,
+          "M02": 1
+        }
+      },
+      {
+        "iso3": "CHN",
+        "country": "中国",
+        "countryEnglish": "China",
+        "lon": 104,
+        "lat": 35,
+        "values": {
+          "P02": "yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 286.9,
+          "M02": 85.4
+        }
+      },
+      {
+        "iso3": "COL",
+        "country": "哥伦比亚",
+        "countryEnglish": "Colombia",
+        "lon": -74,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 1.3,
+          "M02": 0.2
+        }
+      },
+      {
+        "iso3": "DEU",
+        "country": "德国",
+        "countryEnglish": "Germany",
+        "lon": 10,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 217.5,
+          "M02": 61.2
+        }
+      },
+      {
+        "iso3": "DNK",
+        "country": "丹麦",
+        "countryEnglish": "Denmark",
+        "lon": 10,
+        "lat": 56,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 29.8,
+          "M02": 10.4
+        }
+      },
+      {
+        "iso3": "EGY",
+        "country": "埃及",
+        "countryEnglish": "Egypt",
+        "lon": 30,
+        "lat": 27,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 0.8,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "ESP",
+        "country": "西班牙",
+        "countryEnglish": "Spain",
+        "lon": -4,
+        "lat": 40,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 61.6,
+          "M02": 15.1
+        }
+      },
+      {
+        "iso3": "FRA",
+        "country": "法国",
+        "countryEnglish": "France",
+        "lon": 2,
+        "lat": 46,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 201.8,
+          "M02": 24.8
+        }
+      },
+      {
+        "iso3": "GBR",
+        "country": "英国",
+        "countryEnglish": "UK",
+        "lon": -2,
+        "lat": 54,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "yes",
+          "M01": 68,
+          "M02": 18.4
+        }
+      },
+      {
+        "iso3": "IDN",
+        "country": "印度尼西亚",
+        "countryEnglish": "Indonesia",
+        "lon": 118,
+        "lat": -2,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 6.4,
+          "M02": 1.5
+        }
+      },
+      {
+        "iso3": "IND",
+        "country": "印度",
+        "countryEnglish": "India",
+        "lon": 79,
+        "lat": 22,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 21.6,
+          "M02": 2.8
+        }
+      },
+      {
+        "iso3": "IRL",
+        "country": "爱尔兰",
+        "countryEnglish": "Ireland",
+        "lon": -8,
+        "lat": 53,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 17,
+          "M02": 3.5
+        }
+      },
+      {
+        "iso3": "ITA",
+        "country": "意大利",
+        "countryEnglish": "Italy",
+        "lon": 12,
+        "lat": 42,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 57.7,
+          "M02": 14.9
+        }
+      },
+      {
+        "iso3": "JPN",
+        "country": "日本",
+        "countryEnglish": "Japan",
+        "lon": 138,
+        "lat": 37,
+        "values": {
+          "P02": "yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 52.1,
+          "M02": 12.6
+        }
+      },
+      {
+        "iso3": "KAZ",
+        "country": "哈萨克斯坦",
+        "countryEnglish": "Kazakhstan",
+        "lon": 68,
+        "lat": 48,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 0.0,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "KOR",
+        "country": "韩国",
+        "countryEnglish": "Korea",
+        "lon": 128,
+        "lat": 36,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 30.2,
+          "M02": 7.9
+        }
+      },
+      {
+        "iso3": "MEX",
+        "country": "墨西哥",
+        "countryEnglish": "Mexico",
+        "lon": -102,
+        "lat": 23,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 3.7,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "MYS",
+        "country": "马来西亚",
+        "countryEnglish": "Malasia",
+        "lon": 102,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 1.6,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "NGA",
+        "country": "尼日利亚",
+        "countryEnglish": "Nigeria",
+        "lon": 8,
+        "lat": 9,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 0.1,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "NLD",
+        "country": "荷兰",
+        "countryEnglish": "Netherlands",
+        "lon": 5,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 116.3,
+          "M02": 26.7
+        }
+      },
+      {
+        "iso3": "NOR",
+        "country": "挪威",
+        "countryEnglish": "Norway",
+        "lon": 10,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 39.7,
+          "M02": 9
+        }
+      },
+      {
+        "iso3": "PHL",
+        "country": "菲律宾",
+        "countryEnglish": "Philippines",
+        "lon": 122,
+        "lat": 13,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 3.1,
+          "M02": 0.2
+        }
+      },
+      {
+        "iso3": "POL",
+        "country": "波兰",
+        "countryEnglish": "Poland",
+        "lon": 19,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 7.1,
+          "M02": 0.7
+        }
+      },
+      {
+        "iso3": "PRT",
+        "country": "葡萄牙",
+        "countryEnglish": "Portugal",
+        "lon": -8,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 9.2,
+          "M02": 1.3
+        }
+      },
+      {
+        "iso3": "RUS",
+        "country": "俄罗斯",
+        "countryEnglish": "Russia",
+        "lon": 90,
+        "lat": 61,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 2.6,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "SAU",
+        "country": "沙特阿拉伯",
+        "countryEnglish": "Saudi Arabia",
+        "lon": 45,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 5.4,
+          "M02": 3
+        }
+      },
+      {
+        "iso3": "SGP",
+        "country": "新加坡",
+        "countryEnglish": "Singapore",
+        "lon": 104,
+        "lat": 1,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 28.5,
+          "M02": 4.4
+        }
+      },
+      {
+        "iso3": "SWE",
+        "country": "瑞典",
+        "countryEnglish": "Sweden",
+        "lon": 18,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 69.6,
+          "M02": 11.3
+        }
+      },
+      {
+        "iso3": "THA",
+        "country": "泰国",
+        "countryEnglish": "Thailand",
+        "lon": 101,
+        "lat": 15,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 3,
+          "M02": 0.4
+        }
+      },
+      {
+        "iso3": "TUR",
+        "country": "土耳其",
+        "countryEnglish": "Turkey",
+        "lon": 35,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 1.4,
+          "M02": 0.1
+        }
+      },
+      {
+        "iso3": "USA",
+        "country": "美国",
+        "countryEnglish": "US",
+        "lon": -98,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "No",
+          "M01": 380,
+          "M02": 64.4
+        }
+      },
+      {
+        "iso3": "VNM",
+        "country": "越南",
+        "countryEnglish": "Vietnam",
+        "lon": 108,
+        "lat": 16,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 1.8,
+          "M02": 0.2
+        }
+      },
+      {
+        "iso3": "ZAF",
+        "country": "南非",
+        "countryEnglish": "South Africa",
+        "lon": 24,
+        "lat": -29,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": null,
+          "P10": null,
+          "P13": "Yes",
+          "M01": 3,
+          "M02": 0.3
+        }
+      }
+    ],
+    "2023": [
+      {
+        "iso3": "ARE",
+        "country": "阿联酋",
+        "countryEnglish": "UAE",
+        "lon": 54,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 4.21,
+          "M02": 1
+        }
+      },
+      {
+        "iso3": "ARG",
+        "country": "阿根廷",
+        "countryEnglish": "Argentina",
+        "lon": -64,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 2.8,
+          "M02": 0.5
+        }
+      },
+      {
+        "iso3": "AUS",
+        "country": "澳大利亚",
+        "countryEnglish": "Australia",
+        "lon": 134,
+        "lat": -25,
+        "values": {
+          "P02": "Yes",
+          "P07": "yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 35.5,
+          "M02": 8.8
+        }
+      },
+      {
+        "iso3": "AUT",
+        "country": "奥地利",
+        "countryEnglish": "Austria",
+        "lon": 14,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 29.7,
+          "M02": 15
+        }
+      },
+      {
+        "iso3": "BEL",
+        "country": "比利时",
+        "countryEnglish": "Belgium",
+        "lon": 4,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 30,
+          "M02": 5
+        }
+      },
+      {
+        "iso3": "BRA",
+        "country": "巴西",
+        "countryEnglish": "Brazil",
+        "lon": -52,
+        "lat": -10,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 17.3,
+          "M02": 2.2
+        }
+      },
+      {
+        "iso3": "CAN",
+        "country": "加拿大",
+        "countryEnglish": "Canada",
+        "lon": -106,
+        "lat": 57,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 59.6,
+          "M02": 4.7
+        }
+      },
+      {
+        "iso3": "CHE",
+        "country": "瑞士",
+        "countryEnglish": "Switzerland",
+        "lon": 8,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 16,
+          "M02": 3.8
+        }
+      },
+      {
+        "iso3": "CHL",
+        "country": "智利",
+        "countryEnglish": "Chile",
+        "lon": -71,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 14.6,
+          "M02": 1.2
+        }
+      },
+      {
+        "iso3": "CHN",
+        "country": "中国",
+        "countryEnglish": "China(Inc,HK)",
+        "lon": 104,
+        "lat": 35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": 2,
+          "M01": 371.9,
+          "M02": 83.5
+        }
+      },
+      {
+        "iso3": "COL",
+        "country": "哥伦比亚",
+        "countryEnglish": "Colombia",
+        "lon": -74,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 1.7,
+          "M02": 0.4
+        }
+      },
+      {
+        "iso3": "DEU",
+        "country": "德国",
+        "countryEnglish": "Germany",
+        "lon": 10,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 287.1,
+          "M02": 67.5
+        }
+      },
+      {
+        "iso3": "DNK",
+        "country": "丹麦",
+        "countryEnglish": "Denmark",
+        "lon": 10,
+        "lat": 56,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 0,
+          "M01": 40.5,
+          "M02": 10.1
+        }
+      },
+      {
+        "iso3": "EGY",
+        "country": "埃及",
+        "countryEnglish": "Egypt",
+        "lon": 30,
+        "lat": 27,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 1.1,
+          "M02": 0.4
+        }
+      },
+      {
+        "iso3": "ESP",
+        "country": "西班牙",
+        "countryEnglish": "Spain",
+        "lon": -4,
+        "lat": 40,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 0,
+          "M01": 84.4,
+          "M02": 21.8
+        }
+      },
+      {
+        "iso3": "ETH",
+        "country": "埃塞俄比亚",
+        "countryEnglish": "Ethopia",
+        "lon": 40,
+        "lat": 9,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "No",
+          "P10": "No",
+          "P13": 0,
+          "M01": 0,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "FRA",
+        "country": "法国",
+        "countryEnglish": "France",
+        "lon": 2,
+        "lat": 46,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 228.7,
+          "M02": 30
+        }
+      },
+      {
+        "iso3": "GBR",
+        "country": "英国",
+        "countryEnglish": "United Kingdom",
+        "lon": -2,
+        "lat": 54,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 101.4,
+          "M02": 32.7
+        }
+      },
+      {
+        "iso3": "IDN",
+        "country": "印度尼西亚",
+        "countryEnglish": "Indonesia",
+        "lon": 118,
+        "lat": -2,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 9.8,
+          "M02": 2.4
+        }
+      },
+      {
+        "iso3": "IND",
+        "country": "印度",
+        "countryEnglish": "India",
+        "lon": 79,
+        "lat": 22,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 38.3,
+          "M02": 15.4
+        }
+      },
+      {
+        "iso3": "IRL",
+        "country": "爱尔兰",
+        "countryEnglish": "Ireland",
+        "lon": -8,
+        "lat": 53,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 26,
+          "M02": 9
+        }
+      },
+      {
+        "iso3": "ITA",
+        "country": "意大利",
+        "countryEnglish": "Italy",
+        "lon": 12,
+        "lat": 42,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 91.3,
+          "M02": 30.3
+        }
+      },
+      {
+        "iso3": "JPN",
+        "country": "日本",
+        "countryEnglish": "Japan",
+        "lon": 138,
+        "lat": 37,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": 2,
+          "M01": 70.5,
+          "M02": 15
+        }
+      },
+      {
+        "iso3": "KAZ",
+        "country": "哈萨克斯坦",
+        "countryEnglish": "Kazakhstan",
+        "lon": 68,
+        "lat": 48,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 0.0,
+          "M02": 0.0
+        }
+      },
+      {
+        "iso3": "KOR",
+        "country": "韩国",
+        "countryEnglish": "Korea",
+        "lon": 128,
+        "lat": 36,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 43.3,
+          "M02": 9.9
+        }
+      },
+      {
+        "iso3": "MAR",
+        "country": "摩洛哥",
+        "countryEnglish": "Morocco",
+        "lon": -7,
+        "lat": 32,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 0.6,
+          "M02": 0.3
+        }
+      },
+      {
+        "iso3": "MEX",
+        "country": "墨西哥",
+        "countryEnglish": "Mexico",
+        "lon": -102,
+        "lat": 23,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 4.3,
+          "M02": 0.2
+        }
+      },
+      {
+        "iso3": "MYS",
+        "country": "马来西亚",
+        "countryEnglish": "Malaysia",
+        "lon": 102,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 2.4,
+          "M02": 0.7
+        }
+      },
+      {
+        "iso3": "NGA",
+        "country": "尼日利亚",
+        "countryEnglish": "Nigeria",
+        "lon": 8,
+        "lat": 9,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 0.1,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "NLD",
+        "country": "荷兰",
+        "countryEnglish": "Netherlands",
+        "lon": 5,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 137.9,
+          "M02": 20.6
+        }
+      },
+      {
+        "iso3": "NOR",
+        "country": "挪威",
+        "countryEnglish": "Norway",
+        "lon": 10,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 53.9,
+          "M02": 13.5
+        }
+      },
+      {
+        "iso3": "PHL",
+        "country": "菲律宾",
+        "countryEnglish": "Philippines",
+        "lon": 122,
+        "lat": 13,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": "3.6",
+          "M02": "0.4"
+        }
+      },
+      {
+        "iso3": "POL",
+        "country": "波兰",
+        "countryEnglish": "Poland",
+        "lon": 19,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 14.4,
+          "M02": 7
+        }
+      },
+      {
+        "iso3": "PRT",
+        "country": "葡萄牙",
+        "countryEnglish": "Portugal",
+        "lon": -8,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 12.1,
+          "M02": 2.4
+        }
+      },
+      {
+        "iso3": "RUS",
+        "country": "俄罗斯",
+        "countryEnglish": "Russia Federation",
+        "lon": 90,
+        "lat": 61,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": 1,
+          "M01": 2.6,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "SAU",
+        "country": "沙特阿拉伯",
+        "countryEnglish": "Saudi Arabia",
+        "lon": 45,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 20.4,
+          "M02": 15
+        }
+      },
+      {
+        "iso3": "SGP",
+        "country": "新加坡",
+        "countryEnglish": "Singapore",
+        "lon": 104,
+        "lat": 1,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 35.6,
+          "M02": 6.4
+        }
+      },
+      {
+        "iso3": "SWE",
+        "country": "瑞典",
+        "countryEnglish": "Sweden",
+        "lon": 18,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 84.2,
+          "M02": 13.5
+        }
+      },
+      {
+        "iso3": "THA",
+        "country": "泰国",
+        "countryEnglish": "Thailand",
+        "lon": 101,
+        "lat": 15,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 4.2,
+          "M02": 1.2
+        }
+      },
+      {
+        "iso3": "TUR",
+        "country": "土耳其",
+        "countryEnglish": "Turkey",
+        "lon": 35,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 2.5,
+          "M02": 0.9
+        }
+      },
+      {
+        "iso3": "USA",
+        "country": "美国",
+        "countryEnglish": "US",
+        "lon": -98,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": 1,
+          "M01": 454.4,
+          "M02": 59.9
+        }
+      },
+      {
+        "iso3": "VNM",
+        "country": "越南",
+        "countryEnglish": "Vietnam",
+        "lon": 108,
+        "lat": 16,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": 2,
+          "M01": 1.8,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "ZAF",
+        "country": "南非",
+        "countryEnglish": "South Africa",
+        "lon": 24,
+        "lat": -29,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": 2,
+          "M01": 3.2,
+          "M02": 0.2
+        }
+      }
+    ],
+    "2024": [
+      {
+        "iso3": "ARE",
+        "country": "阿联酋",
+        "countryEnglish": "UAE",
+        "lon": 54,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 9.08,
+          "M02": 4.87
+        }
+      },
+      {
+        "iso3": "ARG",
+        "country": "阿根廷",
+        "countryEnglish": "Argentina",
+        "lon": -64,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 2.99,
+          "M02": 0.19
+        }
+      },
+      {
+        "iso3": "AUS",
+        "country": "澳大利亚",
+        "countryEnglish": "Australia",
+        "lon": 134,
+        "lat": -25,
+        "values": {
+          "P02": "Yes",
+          "P07": "yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 51.53,
+          "M02": 16.03
+        }
+      },
+      {
+        "iso3": "AUT",
+        "country": "奥地利",
+        "countryEnglish": "Austria",
+        "lon": 14,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 46.77,
+          "M02": 17.07
+        }
+      },
+      {
+        "iso3": "BEL",
+        "country": "比利时",
+        "countryEnglish": "Belgium",
+        "lon": 4,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 39.18,
+          "M02": 9.18
+        }
+      },
+      {
+        "iso3": "BRA",
+        "country": "巴西",
+        "countryEnglish": "Brazil",
+        "lon": -52,
+        "lat": -10,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 23.45,
+          "M02": 6.15
+        }
+      },
+      {
+        "iso3": "CAN",
+        "country": "加拿大",
+        "countryEnglish": "Canada",
+        "lon": -106,
+        "lat": 57,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 79.65,
+          "M02": 20.05
+        }
+      },
+      {
+        "iso3": "CHE",
+        "country": "瑞士",
+        "countryEnglish": "Switzerland",
+        "lon": 8,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 21.07,
+          "M02": 5.07
+        }
+      },
+      {
+        "iso3": "CHL",
+        "country": "智利",
+        "countryEnglish": "Chile",
+        "lon": -71,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 17.05,
+          "M02": 2.45
+        }
+      },
+      {
+        "iso3": "CHN",
+        "country": "中国",
+        "countryEnglish": "China(Inc,HK)",
+        "lon": 104,
+        "lat": 35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": 2,
+          "M01": 440.75,
+          "M02": 68.85
+        }
+      },
+      {
+        "iso3": "COL",
+        "country": "哥伦比亚",
+        "countryEnglish": "Colombia",
+        "lon": -74,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 1.94,
+          "M02": 0.24
+        }
+      },
+      {
+        "iso3": "DEU",
+        "country": "德国",
+        "countryEnglish": "Germany",
+        "lon": 10,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 360.44,
+          "M02": 73.34
+        }
+      },
+      {
+        "iso3": "DNK",
+        "country": "丹麦",
+        "countryEnglish": "Denmark",
+        "lon": 10,
+        "lat": 56,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 51.78,
+          "M02": 11.28
+        }
+      },
+      {
+        "iso3": "EGY",
+        "country": "埃及",
+        "countryEnglish": "Egypt",
+        "lon": 30,
+        "lat": 27,
+        "values": {
+          "P02": "yes",
+          "P07": "yes",
+          "P08": "no",
+          "P10": "yse",
+          "P13": 1,
+          "M01": 1.1,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "ESP",
+        "country": "西班牙",
+        "countryEnglish": "Spain",
+        "lon": -4,
+        "lat": 40,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 106.59,
+          "M02": 22.19
+        }
+      },
+      {
+        "iso3": "ETH",
+        "country": "埃塞俄比亚",
+        "countryEnglish": "Ethopia",
+        "lon": 40,
+        "lat": 9,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "No",
+          "P10": "No",
+          "P13": 0,
+          "M01": 0,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "FRA",
+        "country": "法国",
+        "countryEnglish": "France",
+        "lon": 2,
+        "lat": 46,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 287.31,
+          "M02": 58.61
+        }
+      },
+      {
+        "iso3": "GBR",
+        "country": "英国",
+        "countryEnglish": "United Kingdom",
+        "lon": -2,
+        "lat": 54,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 133.3,
+          "M02": 31.9
+        }
+      },
+      {
+        "iso3": "IDN",
+        "country": "印度尼西亚",
+        "countryEnglish": "Indonesia",
+        "lon": 118,
+        "lat": -2,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 10.1,
+          "M02": 3.1
+        }
+      },
+      {
+        "iso3": "IND",
+        "country": "印度",
+        "countryEnglish": "India",
+        "lon": 79,
+        "lat": 22,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 44.72,
+          "M02": 6.42
+        }
+      },
+      {
+        "iso3": "IRL",
+        "country": "爱尔兰",
+        "countryEnglish": "Ireland",
+        "lon": -8,
+        "lat": 53,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 33.0,
+          "M02": 7.0
+        }
+      },
+      {
+        "iso3": "ITA",
+        "country": "意大利",
+        "countryEnglish": "Italy",
+        "lon": 12,
+        "lat": 42,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 117.99,
+          "M02": 26.69
+        }
+      },
+      {
+        "iso3": "JPN",
+        "country": "日本",
+        "countryEnglish": "Japan",
+        "lon": 138,
+        "lat": 37,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 92.07,
+          "M02": 21.57
+        }
+      },
+      {
+        "iso3": "KAZ",
+        "country": "哈萨克斯坦",
+        "countryEnglish": "Kazakhstan",
+        "lon": 68,
+        "lat": 48,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 0.0,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "KOR",
+        "country": "韩国",
+        "countryEnglish": "Korea",
+        "lon": 128,
+        "lat": 36,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 77.87,
+          "M02": 34.57
+        }
+      },
+      {
+        "iso3": "MAR",
+        "country": "摩洛哥",
+        "countryEnglish": "Morocco",
+        "lon": -7,
+        "lat": 32,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 0.62,
+          "M02": 0.02
+        }
+      },
+      {
+        "iso3": "MEX",
+        "country": "墨西哥",
+        "countryEnglish": "Mexico",
+        "lon": -102,
+        "lat": 23,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 5.24,
+          "M02": 0.94
+        }
+      },
+      {
+        "iso3": "MYS",
+        "country": "马来西亚",
+        "countryEnglish": "Malaysia",
+        "lon": 102,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 2.5,
+          "M02": 0.1
+        }
+      },
+      {
+        "iso3": "NGA",
+        "country": "尼日利亚",
+        "countryEnglish": "Nigeria",
+        "lon": 8,
+        "lat": 9,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 0.1,
+          "M02": 0.0
+        }
+      },
+      {
+        "iso3": "NLD",
+        "country": "荷兰",
+        "countryEnglish": "Netherlands",
+        "lon": 5,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 161.77,
+          "M02": 23.87
+        }
+      },
+      {
+        "iso3": "NOR",
+        "country": "挪威",
+        "countryEnglish": "Norway",
+        "lon": 10,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 67.42,
+          "M02": 13.52
+        }
+      },
+      {
+        "iso3": "PHL",
+        "country": "菲律宾",
+        "countryEnglish": "Philippines",
+        "lon": 122,
+        "lat": 13,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 4.28,
+          "M02": 0.68
+        }
+      },
+      {
+        "iso3": "POL",
+        "country": "波兰",
+        "countryEnglish": "Poland",
+        "lon": 19,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 16.75,
+          "M02": 2.35
+        }
+      },
+      {
+        "iso3": "PRT",
+        "country": "葡萄牙",
+        "countryEnglish": "Portugal",
+        "lon": -8,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "Yes",
+          "P10": "no",
+          "P13": 2,
+          "M01": 15.53,
+          "M02": 3.43
+        }
+      },
+      {
+        "iso3": "RUS",
+        "country": "俄罗斯",
+        "countryEnglish": "Russia Federation",
+        "lon": 90,
+        "lat": 61,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": 1,
+          "M01": 2.6,
+          "M02": 0
+        }
+      },
+      {
+        "iso3": "SAU",
+        "country": "沙特阿拉伯",
+        "countryEnglish": "Saudi Arabia",
+        "lon": 45,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 20.9,
+          "M02": 0.5
+        }
+      },
+      {
+        "iso3": "SGP",
+        "country": "新加坡",
+        "countryEnglish": "Singapore",
+        "lon": 104,
+        "lat": 1,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 45.14,
+          "M02": 9.54
+        }
+      },
+      {
+        "iso3": "SWE",
+        "country": "瑞典",
+        "countryEnglish": "Sweden",
+        "lon": 18,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 1,
+          "M01": 107.06,
+          "M02": 22.86
+        }
+      },
+      {
+        "iso3": "THA",
+        "country": "泰国",
+        "countryEnglish": "Thailand",
+        "lon": 101,
+        "lat": 15,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 4.4,
+          "M02": 0.2
+        }
+      },
+      {
+        "iso3": "TUR",
+        "country": "土耳其",
+        "countryEnglish": "Turkey",
+        "lon": 35,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": 2,
+          "M01": 2.8,
+          "M02": 0.3
+        }
+      },
+      {
+        "iso3": "USA",
+        "country": "美国",
+        "countryEnglish": "US",
+        "lon": -98,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "No",
+          "P10": "No",
+          "P13": 2,
+          "M01": 539.08,
+          "M02": 84.68
+        }
+      },
+      {
+        "iso3": "VNM",
+        "country": "越南",
+        "countryEnglish": "Vietnam",
+        "lon": 108,
+        "lat": 16,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": 2,
+          "M01": 1.83,
+          "M02": 0.03
+        }
+      },
+      {
+        "iso3": "ZAF",
+        "country": "南非",
+        "countryEnglish": "South Africa",
+        "lon": 24,
+        "lat": -29,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": 2,
+          "M01": 3.48,
+          "M02": 0.28
+        }
+      }
+    ],
+    "2025": [
+      {
+        "iso3": "ARG",
+        "country": "阿根廷",
+        "countryEnglish": "Argentina",
+        "lon": -64,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 3.024bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "USD 400mn（2025年Genneia全球绿色债券）"
+        }
+      },
+      {
+        "iso3": "AUS",
+        "country": "澳大利亚",
+        "countryEnglish": "Australia",
+        "lon": 134,
+        "lat": -25,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 40.358bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "AUT",
+        "country": "奥地利",
+        "countryEnglish": "Austria",
+        "lon": 14,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 52.826bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "约EUR 9.0bn（AFME/Dealogic 2025FY图表反算）"
+        }
+      },
+      {
+        "iso3": "BEL",
+        "country": "比利时",
+        "countryEnglish": "Belgium",
+        "lon": 4,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 113.622bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "USD 3.1bn（2025年主权绿色债券，Climate Bonds）"
+        }
+      },
+      {
+        "iso3": "BRA",
+        "country": "巴西",
+        "countryEnglish": "Brazil",
+        "lon": -52,
+        "lat": -10,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "建设/实施中",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 14.267bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "CAN",
+        "country": "加拿大",
+        "countryEnglish": "Canada",
+        "lon": -106,
+        "lat": 57,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 83.865bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "CAD 4.5bn（2025年2月CAD2.0bn + 10月CAD2.5bn）"
+        }
+      },
+      {
+        "iso3": "CHL",
+        "country": "智利",
+        "countryEnglish": "Chile",
+        "lon": -71,
+        "lat": -35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 23.614bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "CHN",
+        "country": "中国",
+        "countryEnglish": "China",
+        "lon": 104,
+        "lat": 35,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "RMB5.2tn cumulative green bonds during 2021-2025; RMB2.4tn outstanding",
+          "M02": "USD 70.3bn（2025年经CBI认证或对齐的绿色债券，LSEG口径）"
+        }
+      },
+      {
+        "iso3": "COL",
+        "country": "哥伦比亚",
+        "countryEnglish": "Colombia",
+        "lon": -74,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 4.004bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "USD 600mn / COP 2.3tn（2025年Bogotá国际绿色债券）"
+        }
+      },
+      {
+        "iso3": "DNK",
+        "country": "丹麦",
+        "countryEnglish": "Denmark",
+        "lon": 10,
+        "lat": 56,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "DKK368bn green bonds outstanding at end-2025",
+          "M02": "DKK 7bn（2025年10年期欧洲绿色债券）"
+        }
+      },
+      {
+        "iso3": "EGY",
+        "country": "埃及",
+        "countryEnglish": "Egypt",
+        "lon": 30,
+        "lat": 27,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 1.500bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "ETH",
+        "country": "埃塞俄比亚",
+        "countryEnglish": "Ethiopia",
+        "lon": 40,
+        "lat": 9,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "No",
+          "P10": "No",
+          "P13": "No",
+          "M01": "USD 0",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "FJI",
+        "country": "斐济",
+        "countryEnglish": "Fiji",
+        "lon": 178,
+        "lat": -18,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 0.052bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "FRA",
+        "country": "法国",
+        "countryEnglish": "France",
+        "lon": 2,
+        "lat": 46,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 295.169bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "约EUR 36.2bn（AFME/Dealogic 2025FY图表反算）"
+        }
+      },
+      {
+        "iso3": "DEU",
+        "country": "德国",
+        "countryEnglish": "Germany",
+        "lon": 10,
+        "lat": 51,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 377.492bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "约EUR 58.3bn（AFME/Dealogic 2025FY图表反算）"
+        }
+      },
+      {
+        "iso3": "GHA",
+        "country": "加纳",
+        "countryEnglish": "Ghana",
+        "lon": -1,
+        "lat": 8,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": "No",
+          "M01": "USD 0",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "IND",
+        "country": "印度",
+        "countryEnglish": "India",
+        "lon": 79,
+        "lat": 22,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 27.507bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "USD 2.3bn（2025年主权绿色债券，Climate Bonds）"
+        }
+      },
+      {
+        "iso3": "IDN",
+        "country": "印度尼西亚",
+        "countryEnglish": "Indonesia",
+        "lon": 118,
+        "lat": -2,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "IDR74.14tn cumulative sustainability-related bonds/sukuk; 42.72% green share",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "IRL",
+        "country": "爱尔兰",
+        "countryEnglish": "Ireland",
+        "lon": -8,
+        "lat": 53,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 46.520bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "EUR 750mn（Bank of Ireland 2025年绿色债券发行）"
+        }
+      },
+      {
+        "iso3": "ITA",
+        "country": "意大利",
+        "countryEnglish": "Italy",
+        "lon": 12,
+        "lat": 42,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 113.183bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "约EUR 18.2bn（AFME/Dealogic 2025FY图表反算）"
+        }
+      },
+      {
+        "iso3": "JPN",
+        "country": "日本",
+        "countryEnglish": "Japan",
+        "lon": 138,
+        "lat": 37,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 120.449bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "KAZ",
+        "country": "哈萨克斯坦",
+        "countryEnglish": "Kazakhstan",
+        "lon": 68,
+        "lat": 48,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 0.113bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "KEN",
+        "country": "肯尼亚",
+        "countryEnglish": "Kenya",
+        "lon": 37,
+        "lat": 1,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": "Yes",
+          "M01": "USD 0.006bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "MYS",
+        "country": "马来西亚",
+        "countryEnglish": "Malaysia",
+        "lon": 102,
+        "lat": 4,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 2.886bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "MUS",
+        "country": "毛里求斯",
+        "countryEnglish": "Mauritius",
+        "lon": 57,
+        "lat": -20,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": "Yes",
+          "M01": "USD 15.762bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "MEX",
+        "country": "墨西哥",
+        "countryEnglish": "Mexico",
+        "lon": -102,
+        "lat": 23,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 21.738bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "MAR",
+        "country": "摩洛哥",
+        "countryEnglish": "Morocco",
+        "lon": -7,
+        "lat": 32,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 0.118bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "NLD",
+        "country": "荷兰",
+        "countryEnglish": "Netherlands",
+        "lon": 5,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes; Green DSL outstanding €26.998bn",
+          "P13": "Yes",
+          "M01": "€26.998bn outstanding Green DSL as of 2025-12-31",
+          "M02": "€2.055bn 2025 tap auction"
+        }
+      },
+      {
+        "iso3": "NGA",
+        "country": "尼日利亚",
+        "countryEnglish": "Nigeria",
+        "lon": 8,
+        "lat": 9,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 0.244bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "NGN 64.8bn（联邦NGN50bn + Lagos NGN14.8bn）"
+        }
+      },
+      {
+        "iso3": "NOR",
+        "country": "挪威",
+        "countryEnglish": "Norway",
+        "lon": 10,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 78.188bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "约EUR 12.8bn（AFME/Dealogic 2025FY图表反算）"
+        }
+      },
+      {
+        "iso3": "PHL",
+        "country": "菲律宾",
+        "countryEnglish": "Philippines",
+        "lon": 122,
+        "lat": 13,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": "Yes",
+          "M01": "USD 15.252bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "POL",
+        "country": "波兰",
+        "countryEnglish": "Poland",
+        "lon": 19,
+        "lat": 52,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 10.165bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "EUR 1.25bn（2025年6月主权绿色债券）"
+        }
+      },
+      {
+        "iso3": "PRT",
+        "country": "葡萄牙",
+        "countryEnglish": "Portugal",
+        "lon": -8,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 10.046bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "KOR",
+        "country": "韩国",
+        "countryEnglish": "Republic of Korea",
+        "lon": 128,
+        "lat": 36,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": "No",
+          "M01": "USD 84.629bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "RUS",
+        "country": "俄罗斯",
+        "countryEnglish": "Russia",
+        "lon": 90,
+        "lat": 61,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": "Yes",
+          "M01": "USD 3.480bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "SAU",
+        "country": "沙特阿拉伯",
+        "countryEnglish": "Saudi Arabia",
+        "lon": 45,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 3.000bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "EUR 1.5bn（2025年2月首只主权绿色债券）"
+        }
+      },
+      {
+        "iso3": "SEN",
+        "country": "塞内加尔",
+        "countryEnglish": "Senegal",
+        "lon": -14,
+        "lat": 14,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": "No",
+          "M01": "USD 0",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "SYC",
+        "country": "塞舌尔",
+        "countryEnglish": "Seychelles",
+        "lon": 55,
+        "lat": -4,
+        "values": {
+          "P02": "Yes",
+          "P07": "No",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 0.015bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "SGP",
+        "country": "新加坡",
+        "countryEnglish": "Singapore",
+        "lon": 104,
+        "lat": 1,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 30.113bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "SGD 2.8bn（由MOF截至2025-10-01累计余额与既有发行额差额核算）"
+        }
+      },
+      {
+        "iso3": "ZAF",
+        "country": "南非",
+        "countryEnglish": "South Africa",
+        "lon": 24,
+        "lat": -29,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": "Yes",
+          "M01": "USD 2.604bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "ESP",
+        "country": "西班牙",
+        "countryEnglish": "Spain",
+        "lon": -4,
+        "lat": 40,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 99.149bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "约EUR 10.0bn（AFME/Dealogic 2025FY图表反算）"
+        }
+      },
+      {
+        "iso3": "SWE",
+        "country": "瑞典",
+        "countryEnglish": "Sweden",
+        "lon": 18,
+        "lat": 62,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "No",
+          "P13": "Yes",
+          "M01": "USD 121.061bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "约EUR 25.1bn（AFME/Dealogic 2025FY图表反算）"
+        }
+      },
+      {
+        "iso3": "CHE",
+        "country": "瑞士",
+        "countryEnglish": "Switzerland",
+        "lon": 8,
+        "lat": 47,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 27.343bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "THA",
+        "country": "泰国",
+        "countryEnglish": "Thailand",
+        "lon": 101,
+        "lat": 15,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 4.359bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "TUR",
+        "country": "土耳其",
+        "countryEnglish": "Türkiye",
+        "lon": 35,
+        "lat": 39,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 6.236bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "ARE",
+        "country": "阿联酋",
+        "countryEnglish": "United Arab Emirates",
+        "lon": 54,
+        "lat": 24,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": "Yes",
+          "M01": "USD 20.062bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "GBR",
+        "country": "英国",
+        "countryEnglish": "United Kingdom",
+        "lon": -2,
+        "lat": 54,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "Yes",
+          "P13": "Yes",
+          "M01": "USD 162.398bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "约EUR 26.4bn（AFME/Dealogic 2025FY图表反算）"
+        }
+      },
+      {
+        "iso3": "USA",
+        "country": "美国",
+        "countryEnglish": "United States",
+        "lon": -98,
+        "lat": 39,
+        "values": {
+          "P02": "No",
+          "P07": "No",
+          "P08": "No",
+          "P10": "No",
+          "P13": "No",
+          "M01": "USD 277.693bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "UZB",
+        "country": "乌兹别克斯坦",
+        "countryEnglish": "Uzbekistan",
+        "lon": 64,
+        "lat": 41,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "Yes",
+          "P10": "Yes",
+          "P13": "No",
+          "M01": "USD 1.568bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      },
+      {
+        "iso3": "VNM",
+        "country": "越南",
+        "countryEnglish": "Vietnam",
+        "lon": 108,
+        "lat": 16,
+        "values": {
+          "P02": "Yes",
+          "P07": "Yes",
+          "P08": "No",
+          "P10": "No",
+          "P13": "Yes",
+          "M01": "USD 0.488bn（2006—2024累计，单位：Billion US Dollars）",
+          "M02": "0"
+        }
+      }
+    ]
+  }
+}

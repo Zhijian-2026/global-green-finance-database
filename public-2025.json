@@ -1,0 +1,8619 @@
+{
+  "edition": "2025 data / 2026 report edition",
+  "generatedOn": "2026-08-03",
+  "coverage": {
+    "countries": 50,
+    "allIndicators": 50,
+    "publicValueIndicators": 20
+  },
+  "disclosure": {
+    "scope": "公开展示层仅提供国家层面汇总结果和精选指标。完整的国家—年份—指标面板、原始值、来源链接及核验记录须经授权获取。",
+    "contact": "请通过网站“数据获取”页面联系数据库团队。"
+  },
+  "countries": [
+    {
+      "iso3": "ARG",
+      "country": "阿根廷",
+      "countryEnglish": "Argentina",
+      "group": "A"
+    },
+    {
+      "iso3": "AUS",
+      "country": "澳大利亚",
+      "countryEnglish": "Australia",
+      "group": "J"
+    },
+    {
+      "iso3": "AUT",
+      "country": "奥地利",
+      "countryEnglish": "Austria",
+      "group": "E"
+    },
+    {
+      "iso3": "BEL",
+      "country": "比利时",
+      "countryEnglish": "Belgium",
+      "group": "C"
+    },
+    {
+      "iso3": "BRA",
+      "country": "巴西",
+      "countryEnglish": "Brazil",
+      "group": "A"
+    },
+    {
+      "iso3": "CAN",
+      "country": "加拿大",
+      "countryEnglish": "Canada",
+      "group": "A"
+    },
+    {
+      "iso3": "CHL",
+      "country": "智利",
+      "countryEnglish": "Chile",
+      "group": "B"
+    },
+    {
+      "iso3": "CHN",
+      "country": "中国",
+      "countryEnglish": "China",
+      "group": "F"
+    },
+    {
+      "iso3": "COL",
+      "country": "哥伦比亚",
+      "countryEnglish": "Colombia",
+      "group": "B"
+    },
+    {
+      "iso3": "DNK",
+      "country": "丹麦",
+      "countryEnglish": "Denmark",
+      "group": "D"
+    },
+    {
+      "iso3": "EGY",
+      "country": "埃及",
+      "countryEnglish": "Egypt",
+      "group": "H"
+    },
+    {
+      "iso3": "ETH",
+      "country": "埃塞俄比亚",
+      "countryEnglish": "Ethiopia",
+      "group": "I"
+    },
+    {
+      "iso3": "FJI",
+      "country": "斐济",
+      "countryEnglish": "Fiji",
+      "group": "J"
+    },
+    {
+      "iso3": "FRA",
+      "country": "法国",
+      "countryEnglish": "France",
+      "group": "C"
+    },
+    {
+      "iso3": "DEU",
+      "country": "德国",
+      "countryEnglish": "Germany",
+      "group": "C"
+    },
+    {
+      "iso3": "GHA",
+      "country": "加纳",
+      "countryEnglish": "Ghana",
+      "group": "I"
+    },
+    {
+      "iso3": "IND",
+      "country": "印度",
+      "countryEnglish": "India",
+      "group": "F"
+    },
+    {
+      "iso3": "IDN",
+      "country": "印度尼西亚",
+      "countryEnglish": "Indonesia",
+      "group": "F"
+    },
+    {
+      "iso3": "IRL",
+      "country": "爱尔兰",
+      "countryEnglish": "Ireland",
+      "group": "B"
+    },
+    {
+      "iso3": "ITA",
+      "country": "意大利",
+      "countryEnglish": "Italy",
+      "group": "C"
+    },
+    {
+      "iso3": "JPN",
+      "country": "日本",
+      "countryEnglish": "Japan",
+      "group": "F"
+    },
+    {
+      "iso3": "KAZ",
+      "country": "哈萨克斯坦",
+      "countryEnglish": "Kazakhstan",
+      "group": "E"
+    },
+    {
+      "iso3": "KEN",
+      "country": "肯尼亚",
+      "countryEnglish": "Kenya",
+      "group": "I"
+    },
+    {
+      "iso3": "MYS",
+      "country": "马来西亚",
+      "countryEnglish": "Malaysia",
+      "group": "G"
+    },
+    {
+      "iso3": "MUS",
+      "country": "毛里求斯",
+      "countryEnglish": "Mauritius",
+      "group": "J"
+    },
+    {
+      "iso3": "MEX",
+      "country": "墨西哥",
+      "countryEnglish": "Mexico",
+      "group": "A"
+    },
+    {
+      "iso3": "MAR",
+      "country": "摩洛哥",
+      "countryEnglish": "Morocco",
+      "group": "I"
+    },
+    {
+      "iso3": "NLD",
+      "country": "荷兰",
+      "countryEnglish": "Netherlands",
+      "group": "D"
+    },
+    {
+      "iso3": "NGA",
+      "country": "尼日利亚",
+      "countryEnglish": "Nigeria",
+      "group": "I"
+    },
+    {
+      "iso3": "NOR",
+      "country": "挪威",
+      "countryEnglish": "Norway",
+      "group": "D"
+    },
+    {
+      "iso3": "PHL",
+      "country": "菲律宾",
+      "countryEnglish": "Philippines",
+      "group": "G"
+    },
+    {
+      "iso3": "POL",
+      "country": "波兰",
+      "countryEnglish": "Poland",
+      "group": "E"
+    },
+    {
+      "iso3": "PRT",
+      "country": "葡萄牙",
+      "countryEnglish": "Portugal",
+      "group": "B"
+    },
+    {
+      "iso3": "KOR",
+      "country": "韩国",
+      "countryEnglish": "Republic of Korea",
+      "group": "F"
+    },
+    {
+      "iso3": "RUS",
+      "country": "俄罗斯",
+      "countryEnglish": "Russia",
+      "group": "E"
+    },
+    {
+      "iso3": "SAU",
+      "country": "沙特阿拉伯",
+      "countryEnglish": "Saudi Arabia",
+      "group": "H"
+    },
+    {
+      "iso3": "SEN",
+      "country": "塞内加尔",
+      "countryEnglish": "Senegal",
+      "group": "J"
+    },
+    {
+      "iso3": "SYC",
+      "country": "塞舌尔",
+      "countryEnglish": "Seychelles",
+      "group": "J"
+    },
+    {
+      "iso3": "SGP",
+      "country": "新加坡",
+      "countryEnglish": "Singapore",
+      "group": "G"
+    },
+    {
+      "iso3": "ZAF",
+      "country": "南非",
+      "countryEnglish": "South Africa",
+      "group": "H"
+    },
+    {
+      "iso3": "ESP",
+      "country": "西班牙",
+      "countryEnglish": "Spain",
+      "group": "C"
+    },
+    {
+      "iso3": "SWE",
+      "country": "瑞典",
+      "countryEnglish": "Sweden",
+      "group": "D"
+    },
+    {
+      "iso3": "CHE",
+      "country": "瑞士",
+      "countryEnglish": "Switzerland",
+      "group": "D"
+    },
+    {
+      "iso3": "THA",
+      "country": "泰国",
+      "countryEnglish": "Thailand",
+      "group": "G"
+    },
+    {
+      "iso3": "TUR",
+      "country": "土耳其",
+      "countryEnglish": "Türkiye",
+      "group": "H"
+    },
+    {
+      "iso3": "ARE",
+      "country": "阿联酋",
+      "countryEnglish": "United Arab Emirates",
+      "group": "H"
+    },
+    {
+      "iso3": "GBR",
+      "country": "英国",
+      "countryEnglish": "United Kingdom",
+      "group": "B"
+    },
+    {
+      "iso3": "USA",
+      "country": "美国",
+      "countryEnglish": "United States",
+      "group": "A"
+    },
+    {
+      "iso3": "UZB",
+      "country": "乌兹别克斯坦",
+      "countryEnglish": "Uzbekistan",
+      "group": "E"
+    },
+    {
+      "iso3": "VNM",
+      "country": "越南",
+      "countryEnglish": "Vietnam",
+      "group": "G"
+    }
+  ],
+  "indicators": [
+    {
+      "code": "P01",
+      "module": "政策与战略",
+      "name": "国家自主贡献（NDC）",
+      "definition": "截至2025年12月31日是否已提交或更新NDC；记录文件日期和版本。"
+    },
+    {
+      "code": "P02",
+      "module": "政策与战略",
+      "name": "国家绿色发展战略",
+      "definition": "国家层面的绿色、低碳或可持续发展总体战略是否有效。"
+    },
+    {
+      "code": "P03",
+      "module": "政策与战略",
+      "name": "绿色发展行动计划或路线图",
+      "definition": "是否有载明任务、期限或路径的行动计划/路线图。"
+    },
+    {
+      "code": "P04",
+      "module": "政策与战略",
+      "name": "绿色经济政策",
+      "definition": "是否存在绿色经济、循环经济、绿色增长或清洁生产国家政策。"
+    },
+    {
+      "code": "P05",
+      "module": "政策与战略",
+      "name": "强制碳排放交易市场（ETS）",
+      "definition": "2025年是否存在已实施并有履约义务的强制排放交易制度。"
+    },
+    {
+      "code": "P06",
+      "module": "政策与战略",
+      "name": "自愿碳市场",
+      "definition": "2025年是否有国家支持或监管的自愿减排、碳信用交易机制。"
+    },
+    {
+      "code": "P07",
+      "module": "政策与战略",
+      "name": "国家绿色金融战略",
+      "definition": "是否有国家层面绿色金融战略、路线图、行动计划或纲要。"
+    },
+    {
+      "code": "P08",
+      "module": "政策与战略",
+      "name": "绿色金融分类目录（Taxonomy）",
+      "definition": "是否发布并实施绿色活动、绿色资产或可持续金融分类目录。"
+    },
+    {
+      "code": "P09",
+      "module": "政策与战略",
+      "name": "环境税或碳税",
+      "definition": "2025年是否实施环境税或碳税。"
+    },
+    {
+      "code": "P10",
+      "module": "政策与战略",
+      "name": "主权绿色债券",
+      "definition": "政府或主权主体是否已发行绿色/可持续主题债券。"
+    },
+    {
+      "code": "P11",
+      "module": "政策与战略",
+      "name": "绿色信贷优惠政策",
+      "definition": "是否有再贷款、贴息、风险分担、资本或考核优惠等绿色信贷激励。"
+    },
+    {
+      "code": "P12",
+      "module": "政策与战略",
+      "name": "环境或气候压力测试",
+      "definition": "监管部门是否要求、指导或组织环境/气候风险压力测试。"
+    },
+    {
+      "code": "P13",
+      "module": "政策与战略",
+      "name": "证券交易所ESG披露要求",
+      "definition": "主要证券交易所是否有ESG/可持续披露上市规则或强制要求。"
+    },
+    {
+      "code": "P14",
+      "module": "政策与战略",
+      "name": "金融机构环境信息披露",
+      "definition": "金融机构环境、气候或可持续信息披露是否有监管要求。"
+    },
+    {
+      "code": "P15",
+      "module": "政策与战略",
+      "name": "绿色债券发行框架或指引",
+      "definition": "是否有绿色债券发行、认证、信息披露或审核官方框架/指引。"
+    },
+    {
+      "code": "P16",
+      "module": "政策与战略",
+      "name": "绿色贷款政策或标准",
+      "definition": "是否有绿色贷款定义、统计、分类或业务标准。"
+    },
+    {
+      "code": "P17",
+      "module": "政策与战略",
+      "name": "绿色保险政策或标准",
+      "definition": "是否有绿色/气候保险政策、产品规范或监管指引。"
+    },
+    {
+      "code": "P18",
+      "module": "政策与战略",
+      "name": "绿色投资基金政策或标准",
+      "definition": "是否有绿色或ESG基金分类、披露、投资或管理规则。"
+    },
+    {
+      "code": "M01",
+      "module": "市场与产品",
+      "name": "绿色债券累计发行规模",
+      "definition": "累计绿色债券发行规模；原始值保留资料所载截止日期、原币与统一美元口径。"
+    },
+    {
+      "code": "M02",
+      "module": "市场与产品",
+      "name": "2025年绿色债券发行规模",
+      "definition": "2025年1月1日至12月31日绿色债券发行金额。"
+    },
+    {
+      "code": "M03",
+      "module": "市场与产品",
+      "name": "绿色贷款",
+      "definition": "截至2025年末是否存在可识别的绿色贷款产品或国家统计口径。"
+    },
+    {
+      "code": "M04",
+      "module": "市场与产品",
+      "name": "2025年新增绿色贷款",
+      "definition": "2025年是否新增绿色贷款产品或新增绿色贷款投放。"
+    },
+    {
+      "code": "M05",
+      "module": "市场与产品",
+      "name": "绿色保险",
+      "definition": "截至2025年末是否存在绿色、气候、环境责任或相近保险产品。"
+    },
+    {
+      "code": "M06",
+      "module": "市场与产品",
+      "name": "2025年新增绿色保险",
+      "definition": "2025年是否推出新的绿色、气候或环境保险产品。"
+    },
+    {
+      "code": "M07",
+      "module": "市场与产品",
+      "name": "绿色或ESG投资基金",
+      "definition": "截至2025年末是否存在绿色或ESG主题基金。"
+    },
+    {
+      "code": "M08",
+      "module": "市场与产品",
+      "name": "2025年新增绿色或ESG投资基金",
+      "definition": "2025年新设或新发的绿色/ESG主题基金。"
+    },
+    {
+      "code": "M09",
+      "module": "市场与产品",
+      "name": "现货碳金融产品",
+      "definition": "是否有碳配额、碳信用等现货交易及其官方交易平台。"
+    },
+    {
+      "code": "M10",
+      "module": "市场与产品",
+      "name": "碳金融衍生产品",
+      "definition": "是否有碳期货、期权、远期、掉期等衍生工具。"
+    },
+    {
+      "code": "M11",
+      "module": "市场与产品",
+      "name": "开发性金融机构绿色投资承诺",
+      "definition": "2025年国家开发性金融机构的绿色融资、投资承诺或发行安排。"
+    },
+    {
+      "code": "M12",
+      "module": "市场与产品",
+      "name": "开发性金融机构环境与社会保障政策",
+      "definition": "国家开发性金融机构是否有环境与社会风险保障/保障政策。"
+    },
+    {
+      "code": "M13",
+      "module": "市场与产品",
+      "name": "开发性金融机构绿色金融技术援助",
+      "definition": "2025年是否提供绿色金融或气候融资技术援助。"
+    },
+    {
+      "code": "M14",
+      "module": "市场与产品",
+      "name": "绿色银行或国家绿色基金",
+      "definition": "是否存在政府设立或公共支持的绿色银行/国家绿色基金。"
+    },
+    {
+      "code": "M15",
+      "module": "市场与产品",
+      "name": "主权财富基金或养老金绿色投资承诺",
+      "definition": "主权财富基金或养老金是否公开承诺绿色/可持续投资。"
+    },
+    {
+      "code": "M16",
+      "module": "市场与产品",
+      "name": "交易所ESG培训",
+      "definition": "主要证券交易所2025年是否提供ESG/可持续金融培训。"
+    },
+    {
+      "code": "M17",
+      "module": "市场与产品",
+      "name": "可持续发展相关指数",
+      "definition": "主要交易所是否有可持续、ESG、低碳或绿色主题指数。"
+    },
+    {
+      "code": "I01",
+      "module": "国际合作",
+      "name": "NGFS成员资格",
+      "definition": "央行或审慎监管机构是否为NGFS成员。"
+    },
+    {
+      "code": "I02",
+      "module": "国际合作",
+      "name": "IPSF成员资格",
+      "definition": "相关公共机构是否为IPSF成员。"
+    },
+    {
+      "code": "I03",
+      "module": "国际合作",
+      "name": "SIF成员资格",
+      "definition": "保险监管机构是否为Sustainable Insurance Forum成员。"
+    },
+    {
+      "code": "I04",
+      "module": "国际合作",
+      "name": "SBFN成员资格",
+      "definition": "银行监管机构/金融部门是否为SBFN成员。"
+    },
+    {
+      "code": "I05",
+      "module": "国际合作",
+      "name": "气候行动财政部长联盟成员资格",
+      "definition": "财政部门所在国家是否为联盟成员。"
+    },
+    {
+      "code": "I06",
+      "module": "国际合作",
+      "name": "SSE倡议参与情况",
+      "definition": "是否有本国证券交易所为UN SSE Partner Exchange。"
+    },
+    {
+      "code": "I07",
+      "module": "国际合作",
+      "name": "IDFC成员资格",
+      "definition": "是否有国家开发性金融机构为IDFC成员。"
+    },
+    {
+      "code": "I08",
+      "module": "国际合作",
+      "name": "PRB签署机构数量",
+      "definition": "截至2025年12月31日该国PRB签署银行数量。"
+    },
+    {
+      "code": "I09",
+      "module": "国际合作",
+      "name": "2025年新增PRB签署机构",
+      "definition": "2025年签署PRB的银行数量。"
+    },
+    {
+      "code": "I10",
+      "module": "国际合作",
+      "name": "PSI签署机构数量",
+      "definition": "截至2025年末该国PSI签署保险机构数量。"
+    },
+    {
+      "code": "I11",
+      "module": "国际合作",
+      "name": "2025年新增PSI签署机构",
+      "definition": "2025年新增PSI签署机构数量。"
+    },
+    {
+      "code": "I12",
+      "module": "国际合作",
+      "name": "PRI签署机构数量",
+      "definition": "截至2025年末该国PRI签署机构数量。"
+    },
+    {
+      "code": "I13",
+      "module": "国际合作",
+      "name": "2025年新增PRI签署机构",
+      "definition": "2025年新增PRI签署机构数量。"
+    },
+    {
+      "code": "I14",
+      "module": "国际合作",
+      "name": "ISSB/IFRS S2气候相关披露标准采纳情况",
+      "definition": "截至2025年末，国家或辖区是否已采用、发布、计划采用，或以本国/区域规则吸收ISSB IFRS S2气候相关披露要求。"
+    },
+    {
+      "code": "I15",
+      "module": "国际合作",
+      "name": "TNFD自然相关披露采纳机构数量",
+      "definition": "截至2025年末，总部位于该国且已公开承诺在2024或2025财年发布TNFD建议框架下自然相关披露的机构数量。"
+    }
+  ],
+  "showcase": [
+    {
+      "iso3": "USA",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "USA",
+      "code": "P02",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P03",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "USA",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "USA",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P07",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P15",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "USA",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "USA",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 277.693bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 277693098196,
+      "conclusion": "USD 277.693bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "USA",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CAN",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CAN",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 83.865bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 83864672610,
+      "conclusion": "USD 83.865bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "CAN",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "CAD 4.5bn（2025年2月CAD2.0bn + 10月CAD2.5bn）",
+      "rawNumber": 4500000000,
+      "conclusion": "CAD 4.5bn"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MEX",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MEX",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 21.738bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 21737883630,
+      "conclusion": "USD 21.738bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "MEX",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "建设/实施中",
+      "rawNumber": null,
+      "conclusion": "建设/实施中"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BRA",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 14.267bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 14266676290,
+      "conclusion": "USD 14.267bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "BRA",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARG",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 3.024bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 3023602890,
+      "conclusion": "USD 3.024bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "ARG",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "USD 400mn（2025年Genneia全球绿色债券）",
+      "rawNumber": 400000000,
+      "conclusion": "USD 0.400bn"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CHL",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CHL",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 23.614bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 23614210909,
+      "conclusion": "USD 23.614bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "CHL",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "COL",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "COL",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "COL",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "COL",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "COL",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "COL",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 4.004bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 4004214910,
+      "conclusion": "USD 4.004bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "COL",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "USD 600mn / COP 2.3tn（2025年Bogotá国际绿色债券）",
+      "rawNumber": 600000000,
+      "conclusion": "USD 0.600bn"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GBR",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GBR",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 162.398bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 162397728043,
+      "conclusion": "USD 162.398bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "GBR",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "约EUR 26.4bn（AFME/Dealogic 2025FY图表反算）",
+      "rawNumber": 26400000000,
+      "conclusion": "EUR 26.4bn"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IRL",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IRL",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 46.520bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 46520184363,
+      "conclusion": "USD 46.520bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "IRL",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "EUR 750mn（Bank of Ireland 2025年绿色债券发行）",
+      "rawNumber": 750000000,
+      "conclusion": "EUR 0.750bn"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "PRT",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PRT",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 10.046bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 10046399080,
+      "conclusion": "USD 10.046bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "PRT",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FRA",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FRA",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 295.169bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 295169397417,
+      "conclusion": "USD 295.169bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "FRA",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "约EUR 36.2bn（AFME/Dealogic 2025FY图表反算）",
+      "rawNumber": 36200000000,
+      "conclusion": "EUR 36.2bn"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "DEU",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DEU",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 377.492bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 377491961581,
+      "conclusion": "USD 377.492bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "DEU",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "约EUR 58.3bn（AFME/Dealogic 2025FY图表反算）",
+      "rawNumber": 58300000000,
+      "conclusion": "EUR 58.3bn"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ITA",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ITA",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 113.183bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 113183183757,
+      "conclusion": "USD 113.183bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "ITA",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "约EUR 18.2bn（AFME/Dealogic 2025FY图表反算）",
+      "rawNumber": 18200000000,
+      "conclusion": "EUR 18.2bn"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ESP",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ESP",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 99.149bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 99149276754,
+      "conclusion": "USD 99.149bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "ESP",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "约EUR 10.0bn（AFME/Dealogic 2025FY图表反算）",
+      "rawNumber": 10000000000,
+      "conclusion": "EUR 10.0bn"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "BEL",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "BEL",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 113.622bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 113622363589,
+      "conclusion": "USD 113.622bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "BEL",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "USD 3.1bn（2025年主权绿色债券，Climate Bonds）",
+      "rawNumber": 3100000000,
+      "conclusion": "USD 3.1bn"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes; Green DSL outstanding €26.998bn",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NLD",
+      "code": "M01",
+      "binary": null,
+      "rawValue": "€26.998bn outstanding Green DSL as of 2025-12-31",
+      "rawNumber": 26998000000,
+      "conclusion": "€26.998bn outstanding Green DSL as of 2025-12-31"
+    },
+    {
+      "iso3": "NLD",
+      "code": "M02",
+      "binary": null,
+      "rawValue": "€2.055bn 2025 tap auction",
+      "rawNumber": 2055000000,
+      "conclusion": "€2.055bn 2025 tap auction"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SWE",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 121.061bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 121061113878,
+      "conclusion": "USD 121.061bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "SWE",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "约EUR 25.1bn（AFME/Dealogic 2025FY图表反算）",
+      "rawNumber": 25100000000,
+      "conclusion": "EUR 25.1bn"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "DNK",
+      "code": "M01",
+      "binary": null,
+      "rawValue": "DKK368bn green bonds outstanding at end-2025",
+      "rawNumber": 368000000000,
+      "conclusion": "DKK368bn green bonds outstanding at end-2025"
+    },
+    {
+      "iso3": "DNK",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "DKK 7bn（2025年10年期欧洲绿色债券）",
+      "rawNumber": 7000000000,
+      "conclusion": "DKK 7.0bn"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CHE",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHE",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 27.343bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 27342890905,
+      "conclusion": "USD 27.343bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "CHE",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "NOR",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NOR",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 78.188bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 78187658139,
+      "conclusion": "USD 78.188bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "NOR",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "约EUR 12.8bn（AFME/Dealogic 2025FY图表反算）",
+      "rawNumber": 12800000000,
+      "conclusion": "EUR 12.8bn"
+    },
+    {
+      "iso3": "POL",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "POL",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "POL",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 10.165bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 10164943622,
+      "conclusion": "USD 10.165bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "POL",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "EUR 1.25bn（2025年6月主权绿色债券）",
+      "rawNumber": 1250000000,
+      "conclusion": "EUR 1.25bn"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUT",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 52.826bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 52825853306,
+      "conclusion": "USD 52.826bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "AUT",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "约EUR 9.0bn（AFME/Dealogic 2025FY图表反算）",
+      "rawNumber": 9000000000,
+      "conclusion": "EUR 9.0bn"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "RUS",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 3.480bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 3480069616,
+      "conclusion": "USD 3.480bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "RUS",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 0.113bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 112728422,
+      "conclusion": "USD 0.113bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "KAZ",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "UZB",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 1.568bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 1568230420,
+      "conclusion": "USD 1.568bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "UZB",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "CHN",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "CHN",
+      "code": "M01",
+      "binary": null,
+      "rawValue": "RMB5.2tn cumulative green bonds during 2021-2025; RMB2.4tn outstanding",
+      "rawNumber": 5200000000000,
+      "conclusion": "RMB5.2tn cumulative green bonds during 2021-2025; RMB2.4tn outstanding"
+    },
+    {
+      "iso3": "CHN",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "USD 70.3bn（2025年经CBI认证或对齐的绿色债券，LSEG口径）",
+      "rawNumber": 70300000000,
+      "conclusion": "USD 70.3bn"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "JPN",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 120.449bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 120449208317,
+      "conclusion": "USD 120.449bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "JPN",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KOR",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 84.629bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 84629089514,
+      "conclusion": "USD 84.629bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "KOR",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "IND",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IND",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IND",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IND",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IND",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IND",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IND",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IND",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "IND",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IND",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 27.507bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 27507280608,
+      "conclusion": "USD 27.507bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "IND",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "USD 2.3bn（2025年主权绿色债券，Climate Bonds）",
+      "rawNumber": 2300000000,
+      "conclusion": "USD 2.3bn"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "IDN",
+      "code": "M01",
+      "binary": null,
+      "rawValue": "IDR74.14tn cumulative sustainability-related bonds/sukuk; 42.72% green share",
+      "rawNumber": 74140000000000,
+      "conclusion": "IDR74.14tn cumulative sustainability-related bonds/sukuk; 42.72% green share"
+    },
+    {
+      "iso3": "IDN",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SGP",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 30.113bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 30113294957,
+      "conclusion": "USD 30.113bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "SGP",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "SGD 2.8bn（由MOF截至2025-10-01累计余额与既有发行额差额核算）",
+      "rawNumber": 2800000000,
+      "conclusion": "SGD 2.8bn"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MYS",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 2.886bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 2885971533,
+      "conclusion": "USD 2.886bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "MYS",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "THA",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "THA",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "THA",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "THA",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 4.359bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 4358854879,
+      "conclusion": "USD 4.359bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "THA",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "VNM",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "VNM",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 0.488bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 487698583,
+      "conclusion": "USD 0.488bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "VNM",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "PHL",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 15.252bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 15252144234,
+      "conclusion": "USD 15.252bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "PHL",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P11",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P16",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SAU",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SAU",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 3.000bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 3000000000,
+      "conclusion": "USD 3.000bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "SAU",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "EUR 1.5bn（2025年2月首只主权绿色债券）",
+      "rawNumber": 1500000000,
+      "conclusion": "EUR 1.5bn"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ARE",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 20.062bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 20062388063,
+      "conclusion": "USD 20.062bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "ARE",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "TUR",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "TUR",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 6.236bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 6235507698,
+      "conclusion": "USD 6.236bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "TUR",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P09",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 2.604bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 2604498193,
+      "conclusion": "USD 2.604bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "ZAF",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "EGY",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 1.500bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 1500000000,
+      "conclusion": "USD 1.500bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "EGY",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P07",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P15",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "ETH",
+      "code": "M01",
+      "binary": 0,
+      "rawValue": "USD 0",
+      "rawNumber": 0,
+      "conclusion": "USD 0（IMF/LSEG公开国家序列未列示绿色债券发行）"
+    },
+    {
+      "iso3": "ETH",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "NGA",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "NGA",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 0.244bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 243725755,
+      "conclusion": "USD 0.244bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "NGA",
+      "code": "M02",
+      "binary": 1,
+      "rawValue": "NGN 64.8bn（联邦NGN50bn + Lagos NGN14.8bn）",
+      "rawNumber": 64800000000,
+      "conclusion": "NGN 64.8bn"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "KEN",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "KEN",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 0.006bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 6097750,
+      "conclusion": "USD 0.006bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "KEN",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MAR",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MAR",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 0.118bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 117694313,
+      "conclusion": "USD 0.118bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "MAR",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P15",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "GHA",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "GHA",
+      "code": "M01",
+      "binary": 0,
+      "rawValue": "USD 0",
+      "rawNumber": 0,
+      "conclusion": "USD 0（IMF/LSEG公开国家序列未列示绿色债券发行）"
+    },
+    {
+      "iso3": "GHA",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P15",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SEN",
+      "code": "M01",
+      "binary": 0,
+      "rawValue": "USD 0",
+      "rawNumber": 0,
+      "conclusion": "USD 0（IMF/LSEG公开国家序列未列示绿色债券发行）"
+    },
+    {
+      "iso3": "SEN",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P05",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P06",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P08",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P17",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "AUS",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 40.358bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 40358334144,
+      "conclusion": "USD 40.358bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "AUS",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P07",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P10",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P12",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P13",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P14",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "MUS",
+      "code": "P18",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "MUS",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 15.762bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 15762202000,
+      "conclusion": "USD 15.762bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "MUS",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P07",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P15",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "SYC",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 0.015bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 15000000,
+      "conclusion": "USD 0.015bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "SYC",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P01",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P02",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P03",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P04",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P05",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P06",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P07",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P08",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P09",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P10",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P11",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P12",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P13",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P14",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P15",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P16",
+      "binary": 1,
+      "rawValue": "Yes",
+      "rawNumber": null,
+      "conclusion": "Yes"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P17",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "P18",
+      "binary": 0,
+      "rawValue": "No",
+      "rawNumber": null,
+      "conclusion": "No"
+    },
+    {
+      "iso3": "FJI",
+      "code": "M01",
+      "binary": 1,
+      "rawValue": "USD 0.052bn（2006—2024累计，单位：Billion US Dollars）",
+      "rawNumber": 51528034,
+      "conclusion": "USD 0.052bn（IMF/LSEG 2006—2024累计）"
+    },
+    {
+      "iso3": "FJI",
+      "code": "M02",
+      "binary": 0,
+      "rawValue": "0",
+      "rawNumber": 0,
+      "conclusion": "0（未检得2025年绿色债券可核验发行金额）"
+    }
+  ]
+}

@@ -1,0 +1,5177 @@
+{
+  "generatedOn": "2026-08-03",
+  "years": {
+    "2021": {
+      "indicators": [
+        {
+          "code": "I01",
+          "name": "NGFS成员资格"
+        },
+        {
+          "code": "I02",
+          "name": "IPSF成员资格"
+        },
+        {
+          "code": "I03",
+          "name": "SIF成员资格"
+        },
+        {
+          "code": "I04",
+          "name": "SBFN成员资格"
+        },
+        {
+          "code": "I05",
+          "name": "气候行动财政部长联盟成员资格"
+        },
+        {
+          "code": "I06",
+          "name": "SSE倡议参与情况"
+        },
+        {
+          "code": "I07",
+          "name": "IDFC成员资格"
+        },
+        {
+          "code": "I08",
+          "name": "PRB签署机构数量"
+        },
+        {
+          "code": "I10",
+          "name": "PSI签署机构数量"
+        },
+        {
+          "code": "I12",
+          "name": "PRI签署机构数量"
+        },
+        {
+          "code": "I13",
+          "name": "2025年新增PRI签署机构"
+        },
+        {
+          "code": "I14",
+          "name": "TCFD历史观察项"
+        },
+        {
+          "code": "M01",
+          "name": "绿色债券累计发行规模"
+        },
+        {
+          "code": "M02",
+          "name": "2025年绿色债券发行规模"
+        },
+        {
+          "code": "M03",
+          "name": "绿色贷款"
+        },
+        {
+          "code": "M04",
+          "name": "2025年新增绿色贷款"
+        },
+        {
+          "code": "M07",
+          "name": "绿色或ESG投资基金"
+        },
+        {
+          "code": "M08",
+          "name": "2025年新增绿色或ESG投资基金"
+        },
+        {
+          "code": "M09",
+          "name": "现货碳金融产品"
+        },
+        {
+          "code": "M10",
+          "name": "碳金融衍生产品"
+        },
+        {
+          "code": "M11",
+          "name": "开发性金融机构绿色投资承诺"
+        },
+        {
+          "code": "M12",
+          "name": "开发性金融机构环境与社会保障政策"
+        },
+        {
+          "code": "M13",
+          "name": "开发性金融机构绿色金融技术援助"
+        },
+        {
+          "code": "M14",
+          "name": "绿色银行或国家绿色基金"
+        },
+        {
+          "code": "M15",
+          "name": "主权财富基金或养老金绿色投资承诺"
+        },
+        {
+          "code": "M16",
+          "name": "交易所ESG培训"
+        },
+        {
+          "code": "M17",
+          "name": "可持续发展相关指数"
+        },
+        {
+          "code": "P01",
+          "name": "国家自主贡献（NDC）"
+        },
+        {
+          "code": "P02",
+          "name": "国家绿色发展战略"
+        },
+        {
+          "code": "P03",
+          "name": "绿色发展行动计划或路线图"
+        },
+        {
+          "code": "P04",
+          "name": "绿色经济政策"
+        },
+        {
+          "code": "P07",
+          "name": "国家绿色金融战略"
+        },
+        {
+          "code": "P12",
+          "name": "环境或气候压力测试"
+        },
+        {
+          "code": "P13",
+          "name": "证券交易所ESG披露要求"
+        },
+        {
+          "code": "P14",
+          "name": "金融机构环境信息披露"
+        },
+        {
+          "code": "P15",
+          "name": "绿色债券发行框架或指引"
+        },
+        {
+          "code": "P16",
+          "name": "绿色贷款政策或标准"
+        },
+        {
+          "code": "P17",
+          "name": "绿色保险政策或标准"
+        },
+        {
+          "code": "P18",
+          "name": "绿色投资基金政策或标准"
+        }
+      ],
+      "countries": [
+        {
+          "iso3": "ARG",
+          "country": "阿根廷",
+          "countryEnglish": "Argentina",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "Yes",
+            "P14": 0,
+            "P12": 0,
+            "M01": 1.1,
+            "M02": 0.4,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "AUS",
+          "country": "澳大利亚",
+          "countryEnglish": "Australia",
+          "group": "J",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 20.9,
+            "M02": 5.2,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "AUT",
+          "country": "奥地利",
+          "countryEnglish": "Austria",
+          "group": "E",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 7.5,
+            "M02": 3.1,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "BEL",
+          "country": "比利时",
+          "countryEnglish": "Belgium",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 13,
+            "M02": 2.5,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "BRA",
+          "country": "巴西",
+          "countryEnglish": "Brazil",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "P14": 2,
+            "P12": 2,
+            "M01": 10.4,
+            "M02": 2.2,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "CAN",
+          "country": "加拿大",
+          "countryEnglish": "Canada",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "No",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 1,
+            "M01": 39,
+            "M02": 10.6,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "CHL",
+          "country": "智利",
+          "countryEnglish": "Chile",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 11.9,
+            "M02": 4.2,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "CHN",
+          "country": "中国",
+          "countryEnglish": "China",
+          "group": "F",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "P14": 1,
+            "P12": 0,
+            "M01": 199.1,
+            "M02": 68.1,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "COL",
+          "country": "哥伦比亚",
+          "countryEnglish": "Colombia",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "Yes",
+            "P15": "No",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 0.7,
+            "M02": 0,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "DNK",
+          "country": "丹麦",
+          "countryEnglish": "Denmark",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 0,
+            "M01": 15.2,
+            "M02": 3.9,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "EGY",
+          "country": "埃及",
+          "countryEnglish": "Egypt",
+          "group": "H",
+          "values": {
+            "P02": "yes",
+            "P03": "yes",
+            "P04": "yes",
+            "P01": 1,
+            "P07": "no",
+            "P15": "yes",
+            "P16": "no",
+            "P17": "no",
+            "P18": "no",
+            "P14": 2,
+            "P12": 0,
+            "M01": 0.8,
+            "M02": 0,
+            "P13": "yes"
+          }
+        },
+        {
+          "iso3": "ETH",
+          "country": "埃塞俄比亚",
+          "countryEnglish": "Ethiopia",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "FJI",
+          "country": "斐济",
+          "countryEnglish": "Fiji",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "FRA",
+          "country": "法国",
+          "countryEnglish": "France",
+          "group": "C",
+          "values": {
+            "P02": "YES",
+            "P03": "YES",
+            "P04": "YES",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 1,
+            "M01": 167.2,
+            "M02": 36.3,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "DEU",
+          "country": "德国",
+          "countryEnglish": "Germany",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 157.104262053,
+            "M02": 63.23662719,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "GHA",
+          "country": "加纳",
+          "countryEnglish": "Ghana",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "IND",
+          "country": "印度",
+          "countryEnglish": "India",
+          "group": "F",
+          "values": {
+            "P02": "Yes",
+            "P03": "No",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 18.8,
+            "M02": 6.11,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "IDN",
+          "country": "印度尼西亚",
+          "countryEnglish": "Indonesia",
+          "group": "F",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 6.4,
+            "M02": 0.8,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "IRL",
+          "country": "爱尔兰",
+          "countryEnglish": "Ireland",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 0,
+            "M01": 11.4,
+            "M02": 3.7,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "ITA",
+          "country": "意大利",
+          "countryEnglish": "Italy",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 38.4,
+            "M02": 19.6,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "JPN",
+          "country": "日本",
+          "countryEnglish": "Japan",
+          "group": "F",
+          "values": {
+            "P02": "yes",
+            "P03": "yes",
+            "P04": "yes",
+            "P01": 4,
+            "P07": "yes",
+            "P15": "yes",
+            "P16": "yes",
+            "P17": "no",
+            "P18": "no",
+            "P14": 2,
+            "P12": 1,
+            "M01": 37.7,
+            "M02": 11.5,
+            "P13": "no"
+          }
+        },
+        {
+          "iso3": "KAZ",
+          "country": "哈萨克斯坦",
+          "countryEnglish": "Kazakhstan",
+          "group": "E",
+          "values": {
+            "P02": "yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "yes",
+            "P15": "yes",
+            "P16": "no",
+            "P17": "no",
+            "P18": "no",
+            "P14": 0,
+            "P12": 0,
+            "M01": 0,
+            "M02": 0,
+            "P13": "no"
+          }
+        },
+        {
+          "iso3": "KEN",
+          "country": "肯尼亚",
+          "countryEnglish": "Kenya",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "MYS",
+          "country": "马来西亚",
+          "countryEnglish": "Malaysia",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 1,
+            "P12": 1,
+            "M01": 1.6,
+            "M02": 0.1,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "MUS",
+          "country": "毛里求斯",
+          "countryEnglish": "Mauritius",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "MEX",
+          "country": "墨西哥",
+          "countryEnglish": "Mexico",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 3.6,
+            "M02": 0.5,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "MAR",
+          "country": "摩洛哥",
+          "countryEnglish": "Morocco",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "NLD",
+          "country": "荷兰",
+          "countryEnglish": "Netherlands",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 1,
+            "M01": 78.8,
+            "M02": 23.4,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "NGA",
+          "country": "尼日利亚",
+          "countryEnglish": "Nigeria",
+          "group": "I",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 0.1,
+            "M02": 0,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "NOR",
+          "country": "挪威",
+          "countryEnglish": "Norway",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "No",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 28.8,
+            "M02": 12,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "PHL",
+          "country": "菲律宾",
+          "countryEnglish": "Philippines",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 1,
+            "P12": 1,
+            "M01": 3.4,
+            "M02": 0.5,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "POL",
+          "country": "波兰",
+          "countryEnglish": "Poland",
+          "group": "E",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 6.5,
+            "M02": 1.8,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "PRT",
+          "country": "葡萄牙",
+          "countryEnglish": "Portugal",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 0,
+            "M01": 8.3,
+            "M02": 2.7,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "KOR",
+          "country": "韩国",
+          "countryEnglish": "Republic of Korea",
+          "group": "F",
+          "values": {
+            "P02": "yes",
+            "P03": "yes",
+            "P04": "yes",
+            "P01": 4,
+            "P07": "yes",
+            "P15": "yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "no",
+            "P14": 2,
+            "P12": 1,
+            "M01": 22,
+            "M02": 12.5,
+            "P13": "no"
+          }
+        },
+        {
+          "iso3": "RUS",
+          "country": "俄罗斯",
+          "countryEnglish": "Russia",
+          "group": "E",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 2.6,
+            "M02": 1.6,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "SAU",
+          "country": "沙特阿拉伯",
+          "countryEnglish": "Saudi Arabia",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "No",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 2.4,
+            "M02": 0,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "SEN",
+          "country": "塞内加尔",
+          "countryEnglish": "Senegal",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "SYC",
+          "country": "塞舌尔",
+          "countryEnglish": "Seychelles",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "SGP",
+          "country": "新加坡",
+          "countryEnglish": "Singapore",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 1,
+            "M01": 19.7,
+            "M02": 8.1,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "ZAF",
+          "country": "南非",
+          "countryEnglish": "South Africa",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "Yes",
+            "P15": "YES",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 2.7,
+            "M02": 0.1,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "ESP",
+          "country": "西班牙",
+          "countryEnglish": "Spain",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 57.7,
+            "M02": 22,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "SWE",
+          "country": "瑞典",
+          "countryEnglish": "Sweden",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 0,
+            "M01": 58.3,
+            "M02": 16.2,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "CHE",
+          "country": "瑞士",
+          "countryEnglish": "Switzerland",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 7.4,
+            "M02": 2.8,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "THA",
+          "country": "泰国",
+          "countryEnglish": "Thailand",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 2.5,
+            "M02": 0.8,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "TUR",
+          "country": "土耳其",
+          "countryEnglish": "Türkiye",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "No",
+            "P01": 3,
+            "P07": "No",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 1,
+            "P12": 0,
+            "M01": 0.1,
+            "M02": 0,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "ARE",
+          "country": "阿联酋",
+          "countryEnglish": "United Arab Emirates",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 6.5,
+            "M02": 0.6,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "GBR",
+          "country": "英国",
+          "countryEnglish": "United Kingdom",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 1,
+            "M01": 49.1,
+            "M02": 33.9,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "USA",
+          "country": "美国",
+          "countryEnglish": "United States",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "No",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 303.9,
+            "M02": 81.9,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "UZB",
+          "country": "乌兹别克斯坦",
+          "countryEnglish": "Uzbekistan",
+          "group": "E",
+          "values": {}
+        },
+        {
+          "iso3": "VNM",
+          "country": "越南",
+          "countryEnglish": "Vietnam",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "No",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 0.7,
+            "M02": 0.2,
+            "P13": "Yes"
+          }
+        }
+      ]
+    },
+    "2022": {
+      "indicators": [
+        {
+          "code": "I01",
+          "name": "NGFS成员资格"
+        },
+        {
+          "code": "I02",
+          "name": "IPSF成员资格"
+        },
+        {
+          "code": "I03",
+          "name": "SIF成员资格"
+        },
+        {
+          "code": "I04",
+          "name": "SBFN成员资格"
+        },
+        {
+          "code": "I05",
+          "name": "气候行动财政部长联盟成员资格"
+        },
+        {
+          "code": "I06",
+          "name": "SSE倡议参与情况"
+        },
+        {
+          "code": "I07",
+          "name": "IDFC成员资格"
+        },
+        {
+          "code": "I08",
+          "name": "PRB签署机构数量"
+        },
+        {
+          "code": "I10",
+          "name": "PSI签署机构数量"
+        },
+        {
+          "code": "I12",
+          "name": "PRI签署机构数量"
+        },
+        {
+          "code": "I13",
+          "name": "2025年新增PRI签署机构"
+        },
+        {
+          "code": "I14",
+          "name": "TCFD历史观察项"
+        },
+        {
+          "code": "M01",
+          "name": "绿色债券累计发行规模"
+        },
+        {
+          "code": "M02",
+          "name": "2025年绿色债券发行规模"
+        },
+        {
+          "code": "M03",
+          "name": "绿色贷款"
+        },
+        {
+          "code": "M04",
+          "name": "2025年新增绿色贷款"
+        },
+        {
+          "code": "M07",
+          "name": "绿色或ESG投资基金"
+        },
+        {
+          "code": "M08",
+          "name": "2025年新增绿色或ESG投资基金"
+        },
+        {
+          "code": "M09",
+          "name": "现货碳金融产品"
+        },
+        {
+          "code": "M10",
+          "name": "碳金融衍生产品"
+        },
+        {
+          "code": "M11",
+          "name": "开发性金融机构绿色投资承诺"
+        },
+        {
+          "code": "M12",
+          "name": "开发性金融机构环境与社会保障政策"
+        },
+        {
+          "code": "M13",
+          "name": "开发性金融机构绿色金融技术援助"
+        },
+        {
+          "code": "M14",
+          "name": "绿色银行或国家绿色基金"
+        },
+        {
+          "code": "M15",
+          "name": "主权财富基金或养老金绿色投资承诺"
+        },
+        {
+          "code": "M16",
+          "name": "交易所ESG培训"
+        },
+        {
+          "code": "M17",
+          "name": "可持续发展相关指数"
+        },
+        {
+          "code": "P01",
+          "name": "国家自主贡献（NDC）"
+        },
+        {
+          "code": "P02",
+          "name": "国家绿色发展战略"
+        },
+        {
+          "code": "P03",
+          "name": "绿色发展行动计划或路线图"
+        },
+        {
+          "code": "P04",
+          "name": "绿色经济政策"
+        },
+        {
+          "code": "P07",
+          "name": "国家绿色金融战略"
+        },
+        {
+          "code": "P12",
+          "name": "环境或气候压力测试"
+        },
+        {
+          "code": "P13",
+          "name": "证券交易所ESG披露要求"
+        },
+        {
+          "code": "P14",
+          "name": "金融机构环境信息披露"
+        },
+        {
+          "code": "P15",
+          "name": "绿色债券发行框架或指引"
+        },
+        {
+          "code": "P16",
+          "name": "绿色贷款政策或标准"
+        },
+        {
+          "code": "P17",
+          "name": "绿色保险政策或标准"
+        },
+        {
+          "code": "P18",
+          "name": "绿色投资基金政策或标准"
+        }
+      ],
+      "countries": [
+        {
+          "iso3": "ARG",
+          "country": "阿根廷",
+          "countryEnglish": "Argentina",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "Yes",
+            "P14": 0,
+            "P12": 0,
+            "M01": 2,
+            "M02": 0.8,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "AUS",
+          "country": "澳大利亚",
+          "countryEnglish": "Australia",
+          "group": "J",
+          "values": {
+            "P02": "Yes",
+            "P03": "yes",
+            "P04": "yes",
+            "P01": 4,
+            "P07": "no",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 24,
+            "M02": 5.4,
+            "P13": "no"
+          }
+        },
+        {
+          "iso3": "AUT",
+          "country": "奥地利",
+          "countryEnglish": "Austria",
+          "group": "E",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 14.7,
+            "M02": 7.7,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "BEL",
+          "country": "比利时",
+          "countryEnglish": "Belgium",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 25,
+            "M02": 7.9,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "BRA",
+          "country": "巴西",
+          "countryEnglish": "Brazil",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 2,
+            "M01": 11.4,
+            "M02": 1.1,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "CAN",
+          "country": "加拿大",
+          "countryEnglish": "Canada",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 54.2,
+            "M02": 12.1,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "CHL",
+          "country": "智利",
+          "countryEnglish": "Chile",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 13.6,
+            "M02": 1,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "CHN",
+          "country": "中国",
+          "countryEnglish": "China",
+          "group": "F",
+          "values": {
+            "P02": "yes",
+            "P03": "yes",
+            "P04": "yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "P14": 1,
+            "P12": 0,
+            "M01": 286.9,
+            "M02": 85.4,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "COL",
+          "country": "哥伦比亚",
+          "countryEnglish": "Colombia",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 1.3,
+            "M02": 0.2,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "DNK",
+          "country": "丹麦",
+          "countryEnglish": "Denmark",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 29.8,
+            "M02": 10.4,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "EGY",
+          "country": "埃及",
+          "countryEnglish": "Egypt",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 0.8,
+            "M02": 0,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "ETH",
+          "country": "埃塞俄比亚",
+          "countryEnglish": "Ethiopia",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "FJI",
+          "country": "斐济",
+          "countryEnglish": "Fiji",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "FRA",
+          "country": "法国",
+          "countryEnglish": "France",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 1,
+            "M01": 201.8,
+            "M02": 24.8,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "DEU",
+          "country": "德国",
+          "countryEnglish": "Germany",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 217.5,
+            "M02": 61.2,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "GHA",
+          "country": "加纳",
+          "countryEnglish": "Ghana",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "IND",
+          "country": "印度",
+          "countryEnglish": "India",
+          "group": "F",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 21.6,
+            "M02": 2.8,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "IDN",
+          "country": "印度尼西亚",
+          "countryEnglish": "Indonesia",
+          "group": "F",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 6.4,
+            "M02": 1.5,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "IRL",
+          "country": "爱尔兰",
+          "countryEnglish": "Ireland",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 17,
+            "M02": 3.5,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "ITA",
+          "country": "意大利",
+          "countryEnglish": "Italy",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 57.7,
+            "M02": 14.9,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "JPN",
+          "country": "日本",
+          "countryEnglish": "Japan",
+          "group": "F",
+          "values": {
+            "P02": "yes",
+            "P03": "yes",
+            "P04": "yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "yes",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 1,
+            "M01": 52.1,
+            "M02": 12.6,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "KAZ",
+          "country": "哈萨克斯坦",
+          "countryEnglish": "Kazakhstan",
+          "group": "E",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 0,
+            "P12": 0,
+            "M01": 0.000474,
+            "M02": 0,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "KEN",
+          "country": "肯尼亚",
+          "countryEnglish": "Kenya",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "MYS",
+          "country": "马来西亚",
+          "countryEnglish": "Malaysia",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 0,
+            "M01": 1.6,
+            "M02": 0,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "MUS",
+          "country": "毛里求斯",
+          "countryEnglish": "Mauritius",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "MEX",
+          "country": "墨西哥",
+          "countryEnglish": "Mexico",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 3.7,
+            "M02": 0,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "MAR",
+          "country": "摩洛哥",
+          "countryEnglish": "Morocco",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "NLD",
+          "country": "荷兰",
+          "countryEnglish": "Netherlands",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 116.3,
+            "M02": 26.7,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "NGA",
+          "country": "尼日利亚",
+          "countryEnglish": "Nigeria",
+          "group": "I",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "No",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 0.1,
+            "M02": 0,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "NOR",
+          "country": "挪威",
+          "countryEnglish": "Norway",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 39.7,
+            "M02": 9,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "PHL",
+          "country": "菲律宾",
+          "countryEnglish": "Philippines",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 1,
+            "M01": 3.1,
+            "M02": 0.2,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "POL",
+          "country": "波兰",
+          "countryEnglish": "Poland",
+          "group": "E",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 1,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 7.1,
+            "M02": 0.7,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "PRT",
+          "country": "葡萄牙",
+          "countryEnglish": "Portugal",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 9.2,
+            "M02": 1.3,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "KOR",
+          "country": "韩国",
+          "countryEnglish": "Republic of Korea",
+          "group": "F",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 1,
+            "M01": 30.2,
+            "M02": 7.9,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "RUS",
+          "country": "俄罗斯",
+          "countryEnglish": "Russia",
+          "group": "E",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 1,
+            "M01": 2.6,
+            "M02": 0,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "SAU",
+          "country": "沙特阿拉伯",
+          "countryEnglish": "Saudi Arabia",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "No",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 5.4,
+            "M02": 3,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "SEN",
+          "country": "塞内加尔",
+          "countryEnglish": "Senegal",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "SYC",
+          "country": "塞舌尔",
+          "countryEnglish": "Seychelles",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "SGP",
+          "country": "新加坡",
+          "countryEnglish": "Singapore",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 2,
+            "M01": 28.5,
+            "M02": 4.4,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "ZAF",
+          "country": "南非",
+          "countryEnglish": "South Africa",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 2,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 3,
+            "M02": 0.3,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "ESP",
+          "country": "西班牙",
+          "countryEnglish": "Spain",
+          "group": "C",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 61.6,
+            "M02": 15.1,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "SWE",
+          "country": "瑞典",
+          "countryEnglish": "Sweden",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "P14": 2,
+            "P12": 0,
+            "M01": 69.6,
+            "M02": 11.3,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "CHE",
+          "country": "瑞士",
+          "countryEnglish": "Switzerland",
+          "group": "D",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 12.1,
+            "M02": 2.3,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "THA",
+          "country": "泰国",
+          "countryEnglish": "Thailand",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "No",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 3,
+            "M02": 0.4,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "TUR",
+          "country": "土耳其",
+          "countryEnglish": "Türkiye",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "No",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 1.4,
+            "M02": 0.1,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "ARE",
+          "country": "阿联酋",
+          "countryEnglish": "United Arab Emirates",
+          "group": "H",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "Yes",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 7.99,
+            "M02": 1.5,
+            "P13": "Yes"
+          }
+        },
+        {
+          "iso3": "GBR",
+          "country": "英国",
+          "countryEnglish": "United Kingdom",
+          "group": "B",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 4,
+            "P07": "Yes",
+            "P15": "yes",
+            "P16": "Yes",
+            "P17": "no",
+            "P18": "No",
+            "P14": 2,
+            "P12": 1,
+            "M01": 68,
+            "M02": 18.4,
+            "P13": "yes"
+          }
+        },
+        {
+          "iso3": "USA",
+          "country": "美国",
+          "countryEnglish": "United States",
+          "group": "A",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "No",
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "P14": 1,
+            "P12": 0,
+            "M01": 380,
+            "M02": 64.4,
+            "P13": "No"
+          }
+        },
+        {
+          "iso3": "UZB",
+          "country": "乌兹别克斯坦",
+          "countryEnglish": "Uzbekistan",
+          "group": "E",
+          "values": {}
+        },
+        {
+          "iso3": "VNM",
+          "country": "越南",
+          "countryEnglish": "Vietnam",
+          "group": "G",
+          "values": {
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P01": 3,
+            "P07": "No",
+            "P15": "No",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "P14": 2,
+            "P12": 0,
+            "M01": 1.8,
+            "M02": 0.2,
+            "P13": "Yes"
+          }
+        }
+      ]
+    },
+    "2023": {
+      "indicators": [
+        {
+          "code": "I01",
+          "name": "NGFS成员资格"
+        },
+        {
+          "code": "I02",
+          "name": "IPSF成员资格"
+        },
+        {
+          "code": "I03",
+          "name": "SIF成员资格"
+        },
+        {
+          "code": "I04",
+          "name": "SBFN成员资格"
+        },
+        {
+          "code": "I05",
+          "name": "气候行动财政部长联盟成员资格"
+        },
+        {
+          "code": "I06",
+          "name": "SSE倡议参与情况"
+        },
+        {
+          "code": "I07",
+          "name": "IDFC成员资格"
+        },
+        {
+          "code": "I08",
+          "name": "PRB签署机构数量"
+        },
+        {
+          "code": "I09",
+          "name": "2025年新增PRB签署机构"
+        },
+        {
+          "code": "I10",
+          "name": "PSI签署机构数量"
+        },
+        {
+          "code": "I11",
+          "name": "2025年新增PSI签署机构"
+        },
+        {
+          "code": "I12",
+          "name": "PRI签署机构数量"
+        },
+        {
+          "code": "I13",
+          "name": "2025年新增PRI签署机构"
+        },
+        {
+          "code": "I14",
+          "name": "TCFD历史观察项"
+        },
+        {
+          "code": "I15",
+          "name": "ISSB采用或使用进展"
+        },
+        {
+          "code": "M01",
+          "name": "绿色债券累计发行规模"
+        },
+        {
+          "code": "M02",
+          "name": "2025年绿色债券发行规模"
+        },
+        {
+          "code": "M03",
+          "name": "绿色贷款"
+        },
+        {
+          "code": "M04",
+          "name": "2025年新增绿色贷款"
+        },
+        {
+          "code": "M05",
+          "name": "绿色保险"
+        },
+        {
+          "code": "M06",
+          "name": "2025年新增绿色保险"
+        },
+        {
+          "code": "M07",
+          "name": "绿色或ESG投资基金"
+        },
+        {
+          "code": "M08",
+          "name": "2025年新增绿色或ESG投资基金"
+        },
+        {
+          "code": "M09",
+          "name": "现货碳金融产品"
+        },
+        {
+          "code": "M10",
+          "name": "碳金融衍生产品"
+        },
+        {
+          "code": "M11",
+          "name": "开发性金融机构绿色投资承诺"
+        },
+        {
+          "code": "M12",
+          "name": "开发性金融机构环境与社会保障政策"
+        },
+        {
+          "code": "M13",
+          "name": "开发性金融机构绿色金融技术援助"
+        },
+        {
+          "code": "M14",
+          "name": "绿色银行或国家绿色基金"
+        },
+        {
+          "code": "M15",
+          "name": "主权财富基金或养老金绿色投资承诺"
+        },
+        {
+          "code": "M16",
+          "name": "交易所ESG培训"
+        },
+        {
+          "code": "M17",
+          "name": "可持续发展相关指数"
+        },
+        {
+          "code": "P01",
+          "name": "国家自主贡献（NDC）"
+        },
+        {
+          "code": "P02",
+          "name": "国家绿色发展战略"
+        },
+        {
+          "code": "P03",
+          "name": "绿色发展行动计划或路线图"
+        },
+        {
+          "code": "P04",
+          "name": "绿色经济政策"
+        },
+        {
+          "code": "P05",
+          "name": "强制碳排放交易市场（ETS）"
+        },
+        {
+          "code": "P06",
+          "name": "自愿碳市场"
+        },
+        {
+          "code": "P07",
+          "name": "国家绿色金融战略"
+        },
+        {
+          "code": "P08",
+          "name": "绿色金融分类目录（Taxonomy）"
+        },
+        {
+          "code": "P09",
+          "name": "环境税或碳税"
+        },
+        {
+          "code": "P10",
+          "name": "主权绿色债券"
+        },
+        {
+          "code": "P11",
+          "name": "绿色信贷优惠政策"
+        },
+        {
+          "code": "P12",
+          "name": "环境或气候压力测试"
+        },
+        {
+          "code": "P13",
+          "name": "证券交易所ESG披露要求"
+        },
+        {
+          "code": "P14",
+          "name": "金融机构环境信息披露"
+        },
+        {
+          "code": "P15",
+          "name": "绿色债券发行框架或指引"
+        },
+        {
+          "code": "P16",
+          "name": "绿色贷款政策或标准"
+        },
+        {
+          "code": "P17",
+          "name": "绿色保险政策或标准"
+        },
+        {
+          "code": "P18",
+          "name": "绿色投资基金政策或标准"
+        }
+      ],
+      "countries": [
+        {
+          "iso3": "ARG",
+          "country": "阿根廷",
+          "countryEnglish": "Argentina",
+          "group": "A",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 2.8,
+            "M02": 0.5
+          }
+        },
+        {
+          "iso3": "AUS",
+          "country": "澳大利亚",
+          "countryEnglish": "Australia",
+          "group": "J",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 35.5,
+            "M02": 8.8
+          }
+        },
+        {
+          "iso3": "AUT",
+          "country": "奥地利",
+          "countryEnglish": "Austria",
+          "group": "E",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 29.7,
+            "M02": 15
+          }
+        },
+        {
+          "iso3": "BEL",
+          "country": "比利时",
+          "countryEnglish": "Belgium",
+          "group": "C",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 30,
+            "M02": 5
+          }
+        },
+        {
+          "iso3": "BRA",
+          "country": "巴西",
+          "countryEnglish": "Brazil",
+          "group": "A",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 1,
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 17.3,
+            "M02": 2.2
+          }
+        },
+        {
+          "iso3": "CAN",
+          "country": "加拿大",
+          "countryEnglish": "Canada",
+          "group": "A",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 59.6,
+            "M02": 4.7
+          }
+        },
+        {
+          "iso3": "CHL",
+          "country": "智利",
+          "countryEnglish": "Chile",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "no",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "yes",
+            "P17": "no",
+            "P18": "no",
+            "M01": 14.6,
+            "M02": 1.2
+          }
+        },
+        {
+          "iso3": "CHN",
+          "country": "中国",
+          "countryEnglish": "China",
+          "group": "F",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "No",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 371.9,
+            "M02": 83.5
+          }
+        },
+        {
+          "iso3": "COL",
+          "country": "哥伦比亚",
+          "countryEnglish": "Colombia",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 1.7,
+            "M02": 0.4
+          }
+        },
+        {
+          "iso3": "DNK",
+          "country": "丹麦",
+          "countryEnglish": "Denmark",
+          "group": "D",
+          "values": {
+            "P01": 2,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 0,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 40.5,
+            "M02": 10.1
+          }
+        },
+        {
+          "iso3": "EGY",
+          "country": "埃及",
+          "countryEnglish": "Egypt",
+          "group": "H",
+          "values": {
+            "P01": 1,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 1.1,
+            "M02": 0.4
+          }
+        },
+        {
+          "iso3": "ETH",
+          "country": "埃塞俄比亚",
+          "countryEnglish": "Ethiopia",
+          "group": "I",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "No",
+            "P07": "No",
+            "P08": "No",
+            "P09": "No",
+            "P10": "No",
+            "P11": "No",
+            "P12": "No",
+            "P13": 0,
+            "P14": 0,
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 0,
+            "M02": 0
+          }
+        },
+        {
+          "iso3": "FJI",
+          "country": "斐济",
+          "countryEnglish": "Fiji",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "FRA",
+          "country": "法国",
+          "countryEnglish": "France",
+          "group": "C",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 228.7,
+            "M02": 30
+          }
+        },
+        {
+          "iso3": "DEU",
+          "country": "德国",
+          "countryEnglish": "Germany",
+          "group": "C",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 287.1,
+            "M02": 67.5
+          }
+        },
+        {
+          "iso3": "GHA",
+          "country": "加纳",
+          "countryEnglish": "Ghana",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "IND",
+          "country": "印度",
+          "countryEnglish": "India",
+          "group": "F",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 0,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 38.3,
+            "M02": 15.4
+          }
+        },
+        {
+          "iso3": "IDN",
+          "country": "印度尼西亚",
+          "countryEnglish": "Indonesia",
+          "group": "F",
+          "values": {
+            "P01": 2,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 9.8,
+            "M02": 2.4
+          }
+        },
+        {
+          "iso3": "IRL",
+          "country": "爱尔兰",
+          "countryEnglish": "Ireland",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 26,
+            "M02": 9
+          }
+        },
+        {
+          "iso3": "ITA",
+          "country": "意大利",
+          "countryEnglish": "Italy",
+          "group": "C",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 91.3,
+            "M02": 30.3
+          }
+        },
+        {
+          "iso3": "JPN",
+          "country": "日本",
+          "countryEnglish": "Japan",
+          "group": "F",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "No",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 70.5,
+            "M02": 15
+          }
+        },
+        {
+          "iso3": "KAZ",
+          "country": "哈萨克斯坦",
+          "countryEnglish": "Kazakhstan",
+          "group": "E",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "No",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 0.000506655,
+            "M02": 3.2655e-05
+          }
+        },
+        {
+          "iso3": "KEN",
+          "country": "肯尼亚",
+          "countryEnglish": "Kenya",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "MYS",
+          "country": "马来西亚",
+          "countryEnglish": "Malaysia",
+          "group": "G",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 2.4,
+            "M02": 0.7
+          }
+        },
+        {
+          "iso3": "MUS",
+          "country": "毛里求斯",
+          "countryEnglish": "Mauritius",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "MEX",
+          "country": "墨西哥",
+          "countryEnglish": "Mexico",
+          "group": "A",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 4.3,
+            "M02": 0.2
+          }
+        },
+        {
+          "iso3": "MAR",
+          "country": "摩洛哥",
+          "countryEnglish": "Morocco",
+          "group": "I",
+          "values": {
+            "P01": 1,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "No",
+            "P07": "No",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 0,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 0.6,
+            "M02": 0.3
+          }
+        },
+        {
+          "iso3": "NLD",
+          "country": "荷兰",
+          "countryEnglish": "Netherlands",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "No",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 137.9,
+            "M02": 20.6
+          }
+        },
+        {
+          "iso3": "NGA",
+          "country": "尼日利亚",
+          "countryEnglish": "Nigeria",
+          "group": "I",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 0.1,
+            "M02": 0
+          }
+        },
+        {
+          "iso3": "NOR",
+          "country": "挪威",
+          "countryEnglish": "Norway",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "No",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 53.9,
+            "M02": 13.5
+          }
+        },
+        {
+          "iso3": "PHL",
+          "country": "菲律宾",
+          "countryEnglish": "Philippines",
+          "group": "G",
+          "values": {
+            "P01": 1,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": "3.6",
+            "M02": "0.4"
+          }
+        },
+        {
+          "iso3": "POL",
+          "country": "波兰",
+          "countryEnglish": "Poland",
+          "group": "E",
+          "values": {
+            "P01": 0,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 14.4,
+            "M02": 7
+          }
+        },
+        {
+          "iso3": "PRT",
+          "country": "葡萄牙",
+          "countryEnglish": "Portugal",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "No",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 12.1,
+            "M02": 2.4
+          }
+        },
+        {
+          "iso3": "KOR",
+          "country": "韩国",
+          "countryEnglish": "Republic of Korea",
+          "group": "F",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 43.3,
+            "M02": 9.9
+          }
+        },
+        {
+          "iso3": "RUS",
+          "country": "俄罗斯",
+          "countryEnglish": "Russia",
+          "group": "E",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "No",
+            "P11": "No",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 2.6,
+            "M02": 0
+          }
+        },
+        {
+          "iso3": "SAU",
+          "country": "沙特阿拉伯",
+          "countryEnglish": "Saudi Arabia",
+          "group": "H",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 20.4,
+            "M02": 15
+          }
+        },
+        {
+          "iso3": "SEN",
+          "country": "塞内加尔",
+          "countryEnglish": "Senegal",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "SYC",
+          "country": "塞舌尔",
+          "countryEnglish": "Seychelles",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "SGP",
+          "country": "新加坡",
+          "countryEnglish": "Singapore",
+          "group": "G",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 35.6,
+            "M02": 6.4
+          }
+        },
+        {
+          "iso3": "ZAF",
+          "country": "南非",
+          "countryEnglish": "South Africa",
+          "group": "H",
+          "values": {
+            "P01": 2,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "No",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 3.2,
+            "M02": 0.2
+          }
+        },
+        {
+          "iso3": "ESP",
+          "country": "西班牙",
+          "countryEnglish": "Spain",
+          "group": "C",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 0,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 84.4,
+            "M02": 21.8
+          }
+        },
+        {
+          "iso3": "SWE",
+          "country": "瑞典",
+          "countryEnglish": "Sweden",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "yes",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 84.2,
+            "M02": 13.5
+          }
+        },
+        {
+          "iso3": "CHE",
+          "country": "瑞士",
+          "countryEnglish": "Switzerland",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 2,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 16,
+            "M02": 3.8
+          }
+        },
+        {
+          "iso3": "THA",
+          "country": "泰国",
+          "countryEnglish": "Thailand",
+          "group": "G",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 4.2,
+            "M02": 1.2
+          }
+        },
+        {
+          "iso3": "TUR",
+          "country": "土耳其",
+          "countryEnglish": "Türkiye",
+          "group": "H",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 2.5,
+            "M02": 0.9
+          }
+        },
+        {
+          "iso3": "ARE",
+          "country": "阿联酋",
+          "countryEnglish": "United Arab Emirates",
+          "group": "H",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 2,
+            "P14": 0,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 4.20549,
+            "M02": 1
+          }
+        },
+        {
+          "iso3": "GBR",
+          "country": "英国",
+          "countryEnglish": "United Kingdom",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 101.4,
+            "M02": 32.7
+          }
+        },
+        {
+          "iso3": "USA",
+          "country": "美国",
+          "countryEnglish": "United States",
+          "group": "A",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "No",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 454.4,
+            "M02": 59.9
+          }
+        },
+        {
+          "iso3": "UZB",
+          "country": "乌兹别克斯坦",
+          "countryEnglish": "Uzbekistan",
+          "group": "E",
+          "values": {}
+        },
+        {
+          "iso3": "VNM",
+          "country": "越南",
+          "countryEnglish": "Vietnam",
+          "group": "G",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "No",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 1.8,
+            "M02": 0
+          }
+        }
+      ]
+    },
+    "2024": {
+      "indicators": [
+        {
+          "code": "I01",
+          "name": "NGFS成员资格"
+        },
+        {
+          "code": "I02",
+          "name": "IPSF成员资格"
+        },
+        {
+          "code": "I03",
+          "name": "SIF成员资格"
+        },
+        {
+          "code": "I04",
+          "name": "SBFN成员资格"
+        },
+        {
+          "code": "I05",
+          "name": "气候行动财政部长联盟成员资格"
+        },
+        {
+          "code": "I06",
+          "name": "SSE倡议参与情况"
+        },
+        {
+          "code": "I07",
+          "name": "IDFC成员资格"
+        },
+        {
+          "code": "I08",
+          "name": "PRB签署机构数量"
+        },
+        {
+          "code": "I09",
+          "name": "2025年新增PRB签署机构"
+        },
+        {
+          "code": "I10",
+          "name": "PSI签署机构数量"
+        },
+        {
+          "code": "I11",
+          "name": "2025年新增PSI签署机构"
+        },
+        {
+          "code": "I12",
+          "name": "PRI签署机构数量"
+        },
+        {
+          "code": "I13",
+          "name": "2025年新增PRI签署机构"
+        },
+        {
+          "code": "I14",
+          "name": "TCFD历史观察项"
+        },
+        {
+          "code": "I15",
+          "name": "ISSB采用或使用进展"
+        },
+        {
+          "code": "M01",
+          "name": "绿色债券累计发行规模"
+        },
+        {
+          "code": "M02",
+          "name": "2025年绿色债券发行规模"
+        },
+        {
+          "code": "M03",
+          "name": "绿色贷款"
+        },
+        {
+          "code": "M04",
+          "name": "2025年新增绿色贷款"
+        },
+        {
+          "code": "M05",
+          "name": "绿色保险"
+        },
+        {
+          "code": "M06",
+          "name": "2025年新增绿色保险"
+        },
+        {
+          "code": "M07",
+          "name": "绿色或ESG投资基金"
+        },
+        {
+          "code": "M08",
+          "name": "2025年新增绿色或ESG投资基金"
+        },
+        {
+          "code": "M09",
+          "name": "现货碳金融产品"
+        },
+        {
+          "code": "M10",
+          "name": "碳金融衍生产品"
+        },
+        {
+          "code": "M11",
+          "name": "开发性金融机构绿色投资承诺"
+        },
+        {
+          "code": "M12",
+          "name": "开发性金融机构环境与社会保障政策"
+        },
+        {
+          "code": "M13",
+          "name": "开发性金融机构绿色金融技术援助"
+        },
+        {
+          "code": "M14",
+          "name": "绿色银行或国家绿色基金"
+        },
+        {
+          "code": "M15",
+          "name": "主权财富基金或养老金绿色投资承诺"
+        },
+        {
+          "code": "M16",
+          "name": "交易所ESG培训"
+        },
+        {
+          "code": "M17",
+          "name": "可持续发展相关指数"
+        },
+        {
+          "code": "P01",
+          "name": "国家自主贡献（NDC）"
+        },
+        {
+          "code": "P02",
+          "name": "国家绿色发展战略"
+        },
+        {
+          "code": "P03",
+          "name": "绿色发展行动计划或路线图"
+        },
+        {
+          "code": "P04",
+          "name": "绿色经济政策"
+        },
+        {
+          "code": "P05",
+          "name": "强制碳排放交易市场（ETS）"
+        },
+        {
+          "code": "P06",
+          "name": "自愿碳市场"
+        },
+        {
+          "code": "P07",
+          "name": "国家绿色金融战略"
+        },
+        {
+          "code": "P08",
+          "name": "绿色金融分类目录（Taxonomy）"
+        },
+        {
+          "code": "P09",
+          "name": "环境税或碳税"
+        },
+        {
+          "code": "P10",
+          "name": "主权绿色债券"
+        },
+        {
+          "code": "P11",
+          "name": "绿色信贷优惠政策"
+        },
+        {
+          "code": "P12",
+          "name": "环境或气候压力测试"
+        },
+        {
+          "code": "P13",
+          "name": "证券交易所ESG披露要求"
+        },
+        {
+          "code": "P14",
+          "name": "金融机构环境信息披露"
+        },
+        {
+          "code": "P15",
+          "name": "绿色债券发行框架或指引"
+        },
+        {
+          "code": "P16",
+          "name": "绿色贷款政策或标准"
+        },
+        {
+          "code": "P17",
+          "name": "绿色保险政策或标准"
+        },
+        {
+          "code": "P18",
+          "name": "绿色投资基金政策或标准"
+        }
+      ],
+      "countries": [
+        {
+          "iso3": "ARG",
+          "country": "阿根廷",
+          "countryEnglish": "Argentina",
+          "group": "A",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 2.989065661,
+            "M02": 0.189065661
+          }
+        },
+        {
+          "iso3": "AUS",
+          "country": "澳大利亚",
+          "countryEnglish": "Australia",
+          "group": "J",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "YES",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 51.533458334,
+            "M02": 16.033458334
+          }
+        },
+        {
+          "iso3": "AUT",
+          "country": "奥地利",
+          "countryEnglish": "Austria",
+          "group": "E",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 46.768942355,
+            "M02": 17.068942355
+          }
+        },
+        {
+          "iso3": "BEL",
+          "country": "比利时",
+          "countryEnglish": "Belgium",
+          "group": "C",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 39.183566653,
+            "M02": 9.183566653
+          }
+        },
+        {
+          "iso3": "BRA",
+          "country": "巴西",
+          "countryEnglish": "Brazil",
+          "group": "A",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 23.453042654,
+            "M02": 6.153042654
+          }
+        },
+        {
+          "iso3": "CAN",
+          "country": "加拿大",
+          "countryEnglish": "Canada",
+          "group": "A",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 79.645302573,
+            "M02": 20.045302573
+          }
+        },
+        {
+          "iso3": "CHL",
+          "country": "智利",
+          "countryEnglish": "Chile",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "no",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "yes",
+            "P17": "no",
+            "P18": "no",
+            "M01": 17.04638631,
+            "M02": 2.44638631
+          }
+        },
+        {
+          "iso3": "CHN",
+          "country": "中国",
+          "countryEnglish": "China",
+          "group": "F",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "No",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 440.753880417,
+            "M02": 68.853880417
+          }
+        },
+        {
+          "iso3": "COL",
+          "country": "哥伦比亚",
+          "countryEnglish": "Colombia",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 1.937029026,
+            "M02": 0.237029026
+          }
+        },
+        {
+          "iso3": "DNK",
+          "country": "丹麦",
+          "countryEnglish": "Denmark",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "YES",
+            "M01": 51.778526132,
+            "M02": 11.278526132
+          }
+        },
+        {
+          "iso3": "EGY",
+          "country": "埃及",
+          "countryEnglish": "Egypt",
+          "group": "H",
+          "values": {
+            "P01": 1,
+            "P02": "yes",
+            "P03": "yes",
+            "P04": "yes",
+            "P05": "no",
+            "P06": "yes",
+            "P07": "yes",
+            "P08": "no",
+            "P09": "no",
+            "P10": "yse",
+            "P11": "no",
+            "P12": "yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "yes",
+            "P16": "no",
+            "P17": "no",
+            "P18": "yes",
+            "M01": 1.1,
+            "M02": 0
+          }
+        },
+        {
+          "iso3": "ETH",
+          "country": "埃塞俄比亚",
+          "countryEnglish": "Ethiopia",
+          "group": "I",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "No",
+            "P07": "No",
+            "P08": "No",
+            "P09": "No",
+            "P10": "No",
+            "P11": "No",
+            "P12": "No",
+            "P13": 0,
+            "P14": 0,
+            "P15": "No",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 0,
+            "M02": 0
+          }
+        },
+        {
+          "iso3": "FJI",
+          "country": "斐济",
+          "countryEnglish": "Fiji",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "FRA",
+          "country": "法国",
+          "countryEnglish": "France",
+          "group": "C",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 287.31266521,
+            "M02": 58.61266521
+          }
+        },
+        {
+          "iso3": "DEU",
+          "country": "德国",
+          "countryEnglish": "Germany",
+          "group": "C",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 360.441835125,
+            "M02": 73.341835125
+          }
+        },
+        {
+          "iso3": "GHA",
+          "country": "加纳",
+          "countryEnglish": "Ghana",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "IND",
+          "country": "印度",
+          "countryEnglish": "India",
+          "group": "F",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 0,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 44.724960398,
+            "M02": 6.424960398
+          }
+        },
+        {
+          "iso3": "IDN",
+          "country": "印度尼西亚",
+          "countryEnglish": "Indonesia",
+          "group": "F",
+          "values": {
+            "P01": 2,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 10.1,
+            "M02": 3.1
+          }
+        },
+        {
+          "iso3": "IRL",
+          "country": "爱尔兰",
+          "countryEnglish": "Ireland",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 32.998389863,
+            "M02": 6.998389863
+          }
+        },
+        {
+          "iso3": "ITA",
+          "country": "意大利",
+          "countryEnglish": "Italy",
+          "group": "C",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 117.993242896,
+            "M02": 26.693242896
+          }
+        },
+        {
+          "iso3": "JPN",
+          "country": "日本",
+          "countryEnglish": "Japan",
+          "group": "F",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 92.0681378,
+            "M02": 21.5681378
+          }
+        },
+        {
+          "iso3": "KAZ",
+          "country": "哈萨克斯坦",
+          "countryEnglish": "Kazakhstan",
+          "group": "E",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 0.000506655,
+            "M02": 0
+          }
+        },
+        {
+          "iso3": "KEN",
+          "country": "肯尼亚",
+          "countryEnglish": "Kenya",
+          "group": "I",
+          "values": {}
+        },
+        {
+          "iso3": "MYS",
+          "country": "马来西亚",
+          "countryEnglish": "Malaysia",
+          "group": "G",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 2.501893973,
+            "M02": 0.101893973
+          }
+        },
+        {
+          "iso3": "MUS",
+          "country": "毛里求斯",
+          "countryEnglish": "Mauritius",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "MEX",
+          "country": "墨西哥",
+          "countryEnglish": "Mexico",
+          "group": "A",
+          "values": {
+            "P01": 2,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 5.240799449,
+            "M02": 0.940799449
+          }
+        },
+        {
+          "iso3": "MAR",
+          "country": "摩洛哥",
+          "countryEnglish": "Morocco",
+          "group": "I",
+          "values": {
+            "P01": 1,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "No",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 0.62,
+            "M02": 0.02
+          }
+        },
+        {
+          "iso3": "NLD",
+          "country": "荷兰",
+          "countryEnglish": "Netherlands",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 161.767112971,
+            "M02": 23.867112971
+          }
+        },
+        {
+          "iso3": "NGA",
+          "country": "尼日利亚",
+          "countryEnglish": "Nigeria",
+          "group": "I",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 0.10168365,
+            "M02": 0.00168365
+          }
+        },
+        {
+          "iso3": "NOR",
+          "country": "挪威",
+          "countryEnglish": "Norway",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "No",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 67.417893375,
+            "M02": 13.517893375
+          }
+        },
+        {
+          "iso3": "PHL",
+          "country": "菲律宾",
+          "countryEnglish": "Philippines",
+          "group": "G",
+          "values": {
+            "P01": 1,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 4.2760555,
+            "M02": 0.6760555
+          }
+        },
+        {
+          "iso3": "POL",
+          "country": "波兰",
+          "countryEnglish": "Poland",
+          "group": "E",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 16.75224576,
+            "M02": 2.35224576
+          }
+        },
+        {
+          "iso3": "PRT",
+          "country": "葡萄牙",
+          "countryEnglish": "Portugal",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "No",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "no",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 15.534685414,
+            "M02": 3.434685414
+          }
+        },
+        {
+          "iso3": "KOR",
+          "country": "韩国",
+          "countryEnglish": "Republic of Korea",
+          "group": "F",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "No",
+            "M01": 77.87,
+            "M02": 34.57
+          }
+        },
+        {
+          "iso3": "RUS",
+          "country": "俄罗斯",
+          "countryEnglish": "Russia",
+          "group": "E",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "No",
+            "P11": "No",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 2.6,
+            "M02": 0
+          }
+        },
+        {
+          "iso3": "SAU",
+          "country": "沙特阿拉伯",
+          "countryEnglish": "Saudi Arabia",
+          "group": "H",
+          "values": {
+            "P01": 2,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 20.9,
+            "M02": 0.5
+          }
+        },
+        {
+          "iso3": "SEN",
+          "country": "塞内加尔",
+          "countryEnglish": "Senegal",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "SYC",
+          "country": "塞舌尔",
+          "countryEnglish": "Seychelles",
+          "group": "J",
+          "values": {}
+        },
+        {
+          "iso3": "SGP",
+          "country": "新加坡",
+          "countryEnglish": "Singapore",
+          "group": "G",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 45.143135947,
+            "M02": 9.543135947
+          }
+        },
+        {
+          "iso3": "ZAF",
+          "country": "南非",
+          "countryEnglish": "South Africa",
+          "group": "H",
+          "values": {
+            "P01": 2,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "No",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 3.48151167,
+            "M02": 0.28151167
+          }
+        },
+        {
+          "iso3": "ESP",
+          "country": "西班牙",
+          "countryEnglish": "Spain",
+          "group": "C",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 106.592436407,
+            "M02": 22.192436407
+          }
+        },
+        {
+          "iso3": "SWE",
+          "country": "瑞典",
+          "countryEnglish": "Sweden",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "yes",
+            "P12": "No",
+            "P13": 1,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 107.055213532,
+            "M02": 22.855213532
+          }
+        },
+        {
+          "iso3": "CHE",
+          "country": "瑞士",
+          "countryEnglish": "Switzerland",
+          "group": "D",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "Yes",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 21.070350922,
+            "M02": 5.070350922
+          }
+        },
+        {
+          "iso3": "THA",
+          "country": "泰国",
+          "countryEnglish": "Thailand",
+          "group": "G",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "Yes",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 2,
+            "P14": 1,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "Yes",
+            "P18": "Yes",
+            "M01": 4.3990096,
+            "M02": 0.1990096
+          }
+        },
+        {
+          "iso3": "TUR",
+          "country": "土耳其",
+          "countryEnglish": "Türkiye",
+          "group": "H",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "Yes",
+            "P18": "No",
+            "M01": 2.796793958,
+            "M02": 0.296793958
+          }
+        },
+        {
+          "iso3": "ARE",
+          "country": "阿联酋",
+          "countryEnglish": "United Arab Emirates",
+          "group": "H",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "No",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "No",
+            "P13": 2,
+            "P14": 0,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 9.07591696,
+            "M02": 4.87042696
+          }
+        },
+        {
+          "iso3": "GBR",
+          "country": "英国",
+          "countryEnglish": "United Kingdom",
+          "group": "B",
+          "values": {
+            "P01": 4,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "Yes",
+            "P10": "Yes",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 133.301076024,
+            "M02": 31.901076024
+          }
+        },
+        {
+          "iso3": "USA",
+          "country": "美国",
+          "countryEnglish": "United States",
+          "group": "A",
+          "values": {
+            "P01": 0,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "Yes",
+            "P07": "No",
+            "P08": "No",
+            "P09": "No",
+            "P10": "No",
+            "P11": "No",
+            "P12": "Yes",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "No",
+            "P17": "No",
+            "P18": "No",
+            "M01": 539.082278784,
+            "M02": 84.682278784
+          }
+        },
+        {
+          "iso3": "UZB",
+          "country": "乌兹别克斯坦",
+          "countryEnglish": "Uzbekistan",
+          "group": "E",
+          "values": {}
+        },
+        {
+          "iso3": "VNM",
+          "country": "越南",
+          "countryEnglish": "Vietnam",
+          "group": "G",
+          "values": {
+            "P01": 3,
+            "P02": "Yes",
+            "P03": "Yes",
+            "P04": "Yes",
+            "P05": "Yes",
+            "P06": "No",
+            "P07": "Yes",
+            "P08": "No",
+            "P09": "No",
+            "P10": "No",
+            "P11": "Yes",
+            "P12": "No",
+            "P13": 2,
+            "P14": 2,
+            "P15": "Yes",
+            "P16": "Yes",
+            "P17": "No",
+            "P18": "Yes",
+            "M01": 1.834445975,
+            "M02": 0.034445975
+          }
+        }
+      ]
+    }
+  }
+}
