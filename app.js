@@ -21,7 +21,7 @@ const countryOrder=country=>{const members=continentMeta[continentFor(country)]?
 function arc(n,t){let x=0,y=0;const a=t.arcs[n<0?~n:n].map(([dx,dy])=>{x+=dx;y+=dy;return[t.transform.translate[0]+x*t.transform.scale[0],t.transform.translate[1]+y*t.transform.scale[1]]});return n<0?a.reverse():a}
 function ring(arcs,t){return arcs.flatMap((n,i)=>{const p=arc(n,t);return i?p.slice(1):p})}
 function project([x,y]){return[(x+180)/360*1000,(90-y)/180*500]}
-function geometryPath(g,t){const polygons=g.type==="Polygon"?[g.arcs]:g.arcs;return polygons.map(poly=>poly.map(arcs=>{const points=ring(arcs,t).map(project),segments=[];let segment=[];points.forEach((point,i)=>{if(i&&Math.abs(point[0]-points[i-1][0])>500){if(segment.length)segments.push(segment);segment=[point]}else segment.push(point)});if(segment.length)segments.push(segment);return segments.map(s=>"M"+s.map(([x,y],i)=>(i?"L":"")+x.toFixed(1)+","+y.toFixed(1)).join("")+(segments.length===1?"Z":"")).join("")}).join("")).join("")}
+function geometryPath(g,t){const polygons=g.type==="Polygon"?[g.arcs]:g.arcs;return polygons.map(poly=>poly.map(arcs=>{const points=ring(arcs,t).map(project),segments=[];let segment=[];points.forEach((point,i)=>{if(i&&Math.abs(point[0]-points[i-1][0])>500){if(segment.length)segments.push(segment);segment=[point]}else segment.push(point)});if(segment.length)segments.push(segment);return segments.map(s=>"M"+s.map(([x,y],i)=>(i?"L":"")+x.toFixed(1)+","+y.toFixed(1)).join("")+"Z").join("")}).join("")).join("")}
 
 Promise.all([
   fetch("public-2025.json").then(r=>r.json()),
@@ -64,7 +64,7 @@ Promise.all([
       const shown=locked?'<span class="blur">•••</span>':result==null?'<span class="dash">—</span>':`<span class="pill ${result===1?"":"no"}">${result}</span>`;
       const raw=rawObservation(x,code);
       const rawShown=locked?'<span class="blur">•••</span>':`<span class="raw">${rawValue(raw)}</span>`;
-      return`<tr><td><a class="country-link" href="country.html?iso=${x.iso3}">${chineseName(x)}</a><small>${englishName(x)}</small></td><td>${continentName(x)}</td><td>${moduleFor(code)}</td><td>${rawShown}</td><td>${shown}</td></tr>`;
+      return`<tr><td><a class="country-link" href="country.html?iso=${x.iso3}">${chineseName(x)} <span class="country-link-icon" aria-label="查看国家WDI">↗</span></a><small>${englishName(x)}</small></td><td>${continentName(x)}</td><td>${moduleFor(code)}</td><td>${rawShown}</td><td>${shown}</td></tr>`;
     }).join("");
   }
   function jumpToCatalogue(){
