@@ -94,7 +94,7 @@ Promise.all([
       const d=document.createElementNS("http://www.w3.org/2000/svg","path");
       d.setAttribute("d",geometryPath(g,topo));
       d.setAttribute("class",p?"shape lit":"shape");
-      if(id)d.setAttribute("data-country",id);
+      if(id){d.setAttribute("data-country",id);if(id==="RUS")d.classList.add("russia")}
       d.setAttribute("tabindex",p?"0":"-1");
       if(p){
         ["mouseenter","focus","click"].forEach(event=>d.addEventListener(event,()=>{setActiveCountry(id,true);countryCard(p)}));
