@@ -29,6 +29,10 @@ Promise.all([
   fetch("map-years.json").then(r=>r.json()),
   fetch("countries-110m.json").then(r=>r.json())
 ]).then(([data,historical,map,topo])=>{
+  const wdiSection=document.createElement("section");
+  wdiSection.className="section wdi-section"; wdiSection.id="wdi";
+  wdiSection.innerHTML='<div class="section-title"><div><p class="eyebrow">WORLD DEVELOPMENT INDICATORS</p><h2>世界银行世界发展指标（WDI）</h2><p>作为发展条件与宏观背景基准，为绿色金融指标提供国家发展背景。</p></div></div><div class="wdi-meta"><span>覆盖50个国家</span><span>1960—2025年</span><span>数据来源：<a href="https://data.worldbank.org/indicator" target="_blank" rel="noopener">World Bank WDI</a></span></div><p>在详细指标查询中点击国家名称，可进入国家WDI页面，按主题查看最新可用年度数据及长期趋势。</p>';
+  document.querySelector("#about")?.before(wdiSection);
   let mapYear="2025",catalogueYear="2025",code="P01",query="";
   const select=document.querySelector("#indicator"),catalogueYearSelect=document.querySelector("#catalogue-year"),search=document.querySelector("#search"),rows=document.querySelector("#rows"),note=document.querySelector("#indicator-note"),svg=document.querySelector("#world-map"),tip=document.querySelector("#tooltip"),years=document.querySelector("#years");
   const showcase=new Map(data.showcase.map(x=>[x.iso3+":"+x.code,x]));
@@ -60,7 +64,7 @@ Promise.all([
       const shown=locked?'<span class="blur">•••</span>':result==null?'<span class="dash">—</span>':`<span class="pill ${result===1?"":"no"}">${result}</span>`;
       const raw=rawObservation(x,code);
       const rawShown=locked?'<span class="blur">•••</span>':`<span class="raw">${rawValue(raw)}</span>`;
-      return`<tr><td>${chineseName(x)}<small>${englishName(x)}</small></td><td>${continentName(x)}</td><td>${moduleFor(code)}</td><td>${rawShown}</td><td>${shown}</td></tr>`;
+      return`<tr><td><a class="country-link" href="country.html?iso=${x.iso3}">${chineseName(x)}</a><small>${englishName(x)}</small></td><td>${continentName(x)}</td><td>${moduleFor(code)}</td><td>${rawShown}</td><td>${shown}</td></tr>`;
     }).join("");
   }
   function jumpToCatalogue(){
