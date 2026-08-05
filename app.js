@@ -21,7 +21,9 @@ const countryOrder=country=>{const members=continentMeta[continentFor(country)]?
 function arc(n,t){let x=0,y=0;const a=t.arcs[n<0?~n:n].map(([dx,dy])=>{x+=dx;y+=dy;return[t.transform.translate[0]+x*t.transform.scale[0],t.transform.translate[1]+y*t.transform.scale[1]]});return n<0?a.reverse():a}
 function ring(arcs,t){return arcs.flatMap((n,i)=>{const p=arc(n,t);return i?p.slice(1):p})}
 function project([x,y]){return[(x+180)/360*1000,(90-y)/180*500]}
-function geometryPath(g,t){const polygons=g.type==="Polygon"?[g.arcs]:g.arcs;return polygons.map(poly=>poly.map(arcs=>{const points=ring(arcs,t).map(project),segments=[];let segment=[];points.forEach((point,i)=>{if(i&&Math.abs(point[0]-points[i-1][0])>500){if(segment.length)segments.push(segment);segment=[point]}else segment.push(point)});if(segment.length)segments.push(segment);return segments.map(s=>"M"+s.map(([x,y],i)=>(i?"L":"")+x.toFixed(1)+","+y.toFixed(1)).join("")+"Z").join("")}).join("")).join("")}
+function clipX(points,bound,greater){const out=[];let prev=points.at(-1),prevIn=greater?prev[0]>=bound:prev[0]<=bound;for(const cur of points){const curIn=greater?cur[0]>=bound:cur[0]<=bound;if(prevIn!==curIn){const f=(bound-prev[0])/(cur[0]-prev[0]);out.push([bound,prev[1]+f*(cur[1]-prev[1])])}if(curIn)out.push(cur);prev=cur;prevIn=curIn}return out}
+function splitRing(points){const unwrapped=[[points[0][0],points[0][1]]];for(let i=1;i<points.length;i++){let delta=points[i][0]-points[i-1][0];while(delta>180)delta-=360;while(delta<-180)delta+=360;unwrapped.push([unwrapped[i-1][0]+delta,points[i][1]])}const xs=unwrapped.map(p=>p[0]),from=Math.floor((Math.min(...xs)+180)/360),to=Math.floor((Math.max(...xs)+180)/360),parts=[];for(let k=from;k<=to;k++){let part=clipX(unwrapped,-180+360*k,true);part=clipX(part,180+360*k,false);if(part.length>=3)parts.push(part.map(([x,y])=>[x-360*k,y]))}return parts}
+function geometryPath(g,t){const polygons=g.type==="Polygon"?[g.arcs]:g.arcs;return polygons.map(poly=>poly.map(arcs=>splitRing(ring(arcs,t)).map(points=>{const q=points.map(project);return"M"+q.map(([x,y],i)=>(i?"L":"")+x.toFixed(1)+","+y.toFixed(1)).join("")+"Z"}).join("")).join("")).join("")}
 
 Promise.all([
   fetch("public-2025.json").then(r=>r.json()),
@@ -94,7 +96,7 @@ Promise.all([
       const d=document.createElementNS("http://www.w3.org/2000/svg","path");
       d.setAttribute("d",geometryPath(g,topo));
       d.setAttribute("class",p?"shape lit":"shape");
-      if(id){d.setAttribute("data-country",id);if(id==="RUS")d.classList.add("russia")}
+      if(id)d.setAttribute("data-country",id);
       d.setAttribute("tabindex",p?"0":"-1");
       if(p){
         ["mouseenter","focus","click"].forEach(event=>d.addEventListener(event,()=>{setActiveCountry(id,true);countryCard(p)}));
