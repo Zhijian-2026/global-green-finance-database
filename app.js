@@ -34,7 +34,7 @@ Promise.all([
   const wdiSection=document.createElement("section");
   wdiSection.className="section wdi-section"; wdiSection.id="wdi";
   wdiSection.innerHTML='<div class="section-title"><div><p class="eyebrow">WORLD DEVELOPMENT INDICATORS</p><h2>世界银行世界发展指标（WDI）</h2><p>作为发展条件与宏观背景基准，为绿色金融指标提供国家发展背景。</p></div></div><div class="wdi-meta"><span>覆盖50个国家</span><span>1960—2025年</span><span>数据来源：<a href="https://data.worldbank.org/indicator" target="_blank" rel="noopener">World Bank WDI</a></span></div><p>在详细指标查询中点击国家名称，可进入国家WDI页面，按主题查看最新可用年度数据及长期趋势。</p>';
-  document.querySelector("#about")?.before(wdiSection);
+  (document.querySelector("#news")||document.querySelector("#about"))?.before(wdiSection);
   let mapYear="2025",catalogueYear="2025",code="P01",query="";
   const select=document.querySelector("#indicator"),catalogueYearSelect=document.querySelector("#catalogue-year"),search=document.querySelector("#search"),rows=document.querySelector("#rows"),note=document.querySelector("#indicator-note"),svg=document.querySelector("#world-map"),tip=document.querySelector("#tooltip"),years=document.querySelector("#years");
   const showcase=new Map(data.showcase.map(x=>[x.iso3+":"+x.code,x]));
